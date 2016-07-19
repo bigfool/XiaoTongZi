@@ -1,0 +1,1227 @@
+000376441200021,Stochastic methods for epidemic models: An application to the 2009 H1N1 influenza outbreak in Korea,2016,10.1016/j.amc.2016.04.019
+000229528800010,Novel moment closure approximations in stochastic epidemics,2005,10.1016/j.bulm.2004.11.002
+000279671100025,The Spread of Pandemic H1N1 2009 by Age and Region and the Comparison among Monitoring Tools,2010,10.3346/jkms.2010.25.7.1109
+000270385300020,A reduction method for multiple time scale stochastic reaction networks,2009,10.1007/s10910-008-9517-x
+000251628300003,On methods for studying stochastic disease dynamics,2008,10.1098/rsif.2007.1106
+000244164900009,Simple models for containment of a pandemic,2006,10.1098/rsif.2006.0112
+000234342000002,Perspectives on the basic reproductive ratio,2005,10.1098/rsif.2005.0042
+000257302400011,A model for influenza with vaccination and antiviral treatment,2008,10.1016/j.jtbi.2008.02.026
+000243850300002,A final size relation for epidemic models,2007,APR 2007
+000277819600004,Stochastic epidemic models: A survey,2010,10.1016/j.mbs.2010.01.006
+000267748900002,Managing and Reducing Uncertainty in an Emerging Influenza Pandemic.,2009,10.1056/NEJMp0904380
+000187356600005,Estimating variability in models for recurrent epidemics: assessing the use of moment closure techniques,2004,10.1016/j.tpb.2003.07.002
+000181575000008,Moment closure and the stochastic logistic model,2003,10.1016/S0040-5809(02)00060-6
+000328719100004,A Moment Closure Method for Stochastic Chemical Reaction Networks with General Kinetics,2013,2013
+000265053200008,A moment closure method for stochastic reaction networks,2009,10.1063/1.3103264
+000179220600004,Reproduction numbers and sub-threshold endemic equilibria for compartmental models of disease transmission,2002,10.1016/S0025-5564(02)00108-6
+000376728300016,Influence of n-alkyl ester groups on efficiency of crosslinking for methacrylate monomers copolymerized with EGDMA: Experiments and Monte Carlo simulations of reaction kinetics and sol-gel structure,2016,10.1016/j.polymer.2016.04.017
+000247321000001,A review of modeling of diffusion controlled polymerization reactions,2007,10.1002/mats.200700003
+000332931900009,Modeling of Functional Group Distribution in Copolymerization: A Comparison of Deterministic and Stochastic Approaches,2014,10.1002/mats.201300156
+000268796600028,Density, Excess Molar Volume, and Viscosity for the Methyl Methacrylate+1-Butyl-3-methylimidazolium Hexafluorophosphate Ionic Liquid Binary System at Atmospheric Pressure,2009,10.1021/je900091b
+000247654900005,Some thermodynamic properties of the binary systems of toluene with butyl methacrylate, allyl methacrylate, methacrylic acid and vinyl acetate at 20, 30 and 40 degrees C,2007,10.1007/s10953-007-9165-y
+000327738000005,The Crucial Role of Diffusional Limitations in Controlled Radical Polymerization,2013,10.1002/mren.201300006
+000319073300003,Modeling Crosslinking Polymerization in Batch and Continuous Reactors,2013,10.1002/mren.201200073
+000348059200006,A Hybrid Algorithm for Accurate and Efficient Monte Carlo Simulations of Free-Radical Polymerization Reactions,2015,10.1002/mats.201400062
+000330627000003,Modeling Multiradicals in Crosslinking MMA/EGDMA Bulk Copolymerization,2014,10.1002/mats.201300122
+000348085600020,Monte Carlo Simulations of Free Radical Polymerizations with Divinyl Cross-Linker: Pre- and Postgel Simulations of Reaction Kinetics and Molecular Structure,2015,10.1021/ma502085x
+000327752900035,A New Insight into the Formation of Polymer Networks: A Kinetic Monte Carlo Simulation of the Cross-Linking Polymerization of S/DVB,2013,10.1021/ma4016054
+000313303600004,Global Trends for k(p)? Expanding the Frontier of Ester Side Chain Topography in Acrylates and Methacrylates,2013,10.1021/ma302319z
+000340812300024,Transition into the gel regime for free radical crosslinking polymerisation in a batch reactor,2014,10.1016/j.polymer.2014.06.013
+000231573100060,Estimation of intrinsic rate coefficients in vinyl chloride suspension polymerization,2005,10.1016/j.polymer.2005.06.091
+000179986600001,The effect of primary cyclization on free radical polymerization kinetics: experimental characterization,2003,10.1016/S0032-3861(02)00734-6
+000167382100016,Estimating diffusion coefficients for small molecules in polymers and polymer solutions,2001,10.1016/S0032-3861(00)00765-5
+000187349800004,Dynamic modeling of non-equilibrium latex particle morphology development during seeded emulsion polymerization,2003,10.1081/PRe-120026365
+000356442000002,When Polymer Reaction Engineers Play Dice: Applications of Monte Carlo Models in PRE,2015,10.1002/mren.201500020
+000376078600015,HRSSA - Efficient hybrid stochastic simulation for spatially homogeneous biochemical reaction networks,2016,10.1016/j.jcp.2016.04.056
+000234036100001,Computational modelling of the receptor-tyrosine-kinase-activated MAPK pathway,2005,10.1042/BJ20050908
+000242715200015,COPASI- A COmplex PAthway SImulator,2006,10.1093/bioinformatics/btl485
+000241958000012,Dynamic partitioning for hybrid simulation of the bistable HIV-1 transactivation network,2006,10.1093/bioinformatics/btl465
+000187925200011,Adaptive stochastic-deterministic chemical kinetic simulations,2004,10.1093/bioinformatics/btg376
+000262957900005,Biochemical simulations: stochastic, approximate stochastic and hybrid approaches,2009,10.1093/bib/bbn050
+000258471200006,A structured approach for the engineering of biochemical network models, illustrated for signalling pathways,2008,10.1093/bib/bbn026
+000292543800006,Stochastic simulation of population balance models with disparate time scales: Hybrid strategies,2011,10.1016/j.ces.2011.05.035
+000265506200027,Algorithmic Systems Biology,2009,10.1145/1506409.1506427
+000235467800005,The sorting direct method for stochastic simulation of biochemical systems with varying reaction execution behavior,2006,10.1016/j.compbiolchem.2005.10.007
+000286456800008,Legitimacy of the stochastic Michaelis-Menten approximation,2011,10.1049/iet-syb.2009.0057
+000359377200008,Simulation of biochemical reactions with time-dependent rates by the rejection-based algorithm,2015,10.1063/1.4927916
+000357615100010,On the rejection-based algorithm for simulation and analysis of large-scale reaction networks,2015,10.1063/1.4922923
+000343872800020,Efficient rejection-based simulation of biochemical reactions with stochastic noise and delays,2014,10.1063/1.4896985
+000312780300011,Stochastic model reduction using a modified Hill-type kinetic rate law,2012,10.1063/1.4770273
+000300547200011,Stochastic mapping of the Michaelis-Menten mechanism,2012,10.1063/1.3681942
+000256304200045,A constant-time kinetic Monte Carlo algorithm for simulation of large biochemical reaction networks,2008,10.1063/1.2919546
+000232855700020,On the origins of approximations for stochastic chemical kinetics,2005,10.1063/1.2062048
+000229858500018,Nuclear-magnetic-resonance shielding constants calculated by pseudospectral methods,2005,10.1063/1.1924598
+000226880100004,Accurate hybrid stochastic simulation of a system of coupled chemical or biochemical reactions,2005,10.1069/1.1835951
+000223623800012,Efficient formulation of the stochastic simulation algorithm for chemically reacting systems,2004,10.1063/1.1778376
+000178317300009,Approximate simulation of coupled fast and slow reactions for stochastic chemical kinetics,2002,10.1063/1.1505860
+000169800000010,Approximate accelerated stochastic simulation of chemically reacting systems,2001,10.1063/1.1378322
+000088792800046,An analytical solution of the stochastic master equation for reversible bimolecular reaction kinetics,2000,PII [S0021-9606(00)51832-7]
+000234007500002,Accuracy limitations and the measurement of errors in the stochastic simulation of chemically reacting systems,2006,10.1016/j.jcp.2005.06.012
+000085770400013,Efficient exact stochastic simulation of chemical systems with many species and many channels,2000,10.1021/jp993732q
+000208042700002,MULTISCALE MODELING OF CHEMICAL KINETICS VIA THE MASTER EQUATION,2008,10.1137/060678154
+000179200900056,Computational systems biology,2002,10.1038/nature01254
+000167194300035,Mammalian MAP kinase signalling cascades,2001,10.1038/35065000
+000251086500024,Executable cell biology,2007,10.1038/nbt1356
+000223075400004,Mathematical and computational techniques to deduce complex biochemical reaction mechanisms,2004,10.1016/j.pbiomolbio.2004.04.002
+000221803700007,A multi-scaled approach for simulating chemical reaction systems,2004,10.1016/j.pbiomolbio.2004.01.004
+000309198600004,Hybrid representation and simulation of stiff biochemical networks,2012,10.1016/j.nahs.2012.05.004
+000312290800014,Algorithmic Modeling Quantifies the Complementary Contribution of Metabolic Inhibitions to Gemcitabine Efficacy,2012,10.1371/journal.pone.0050176
+000376406100008,Regularized maximum likelihood estimation of sparse stochastic monomolecular biochemical reaction networks,2016,10.1016/j.compchemeng.2016.03.018
+000268072100013,Single-Molecule Approaches to Stochastic Gene Expression,2009,10.1146/annurev.biophys.37.032807.125928
+000258107500021,Single-molecule approach to molecular biology in living bacterial cells,2008,10.1146/annurev.biophys.37.092607.174640
+000246652300003,Stochastic simulation of chemical kinetics,2007,10.1146/annurev.physchem.58.032806.104637
+000291456100004,Inferring stable genetic networks from steady-state data,2011,10.1016/j.automatica.2011.02.006
+000323943200012,The signal within the noise: efficient inference of stochastic gene regulation models using fluorescence histograms and stochastic simulations,2013,10.1093/bioinformatics/btt380
+000264189600012,Benchmarks for identification of ordinary differential equations from time series data,2009,10.1093/bioinformatics/btp050
+000243060300013,Simulated maximum likelihood method for estimating kinetic rates in gene expression,2007,10.1093/bioinformatics/btl552
+000230716200001,A stochastic analysis of first-order reaction networks,2005,10.1016/j.bulm.2004.09.009
+000169457400001,Optical probing of single fluorescent molecules and proteins,2001,10.1002/1439-7641(20010618)2:6&lt;347::AID-CPHC347&gt;3.0.CO;2-7
+000223675900013,A benchmark for methods in reverse engineering and model discrimination: Problem formulation and solutions,2004,10.1101/gr.1226004
+000235323900013,Using chemical reaction network theory to discard a kinetic mechanism hypothesis,2005,10.1049/ip-syb:20050045
+000267060600003,Genetic network identification using convex programming,2009,10.1049/iet-syb.2008.0130
+000297281000002,Bayesian parameter inference for stochastic biochemical network models using particle Markov chain Monte Carlo,2011,10.1098/rsfs.2011.0047
+000258976000037,Stochastic chemical kinetics and the total quasi-steady-state assumption: Application to the stochastic simulation algorithm and chemical master equation,2008,10.1063/1.2971036
+000242825300001,Solving the chemical master equation for monomolecular reaction systems analytically,2007,10.1007/s00285-006-0034-x
+000255629500018,Identifiability of chemical reaction networks,2008,10.1007/s10910-007-9307-x
+000085770400013,Efficient exact stochastic simulation of chemical systems with many species and many channels,2000,10.1021/jp993732q
+000292911200031,Central dogma at the single-molecule level in living cells,2011,10.1038/nature10315
+000274582700038,Variability in gene expression underlies incomplete penetrance,2010,10.1038/nature08781
+000089772800053,The large-scale organization of metabolic networks,2000,OCT 5 2000
+000275714800009,Towards genome-scale signalling-network reconstructions,2010,10.1038/nrg2750
+000304445800083,Moment-based inference predicts bimodality in transient gene expression,2012,10.1073/pnas.1200161109
+000302703900039,Using Gene Expression Noise to Understand Gene Regulation,2012,10.1126/science.1216379
+000236029500043,Probing gene expression in live cells, one protein molecule at a time,2006,10.1126/science.1119623
+000183914700043,Inferring genetic networks and identifying compound mode of action via expression profiling,2003,10.1126/science.1081900
+000177447600051,Stochastic gene expression in a single cell,2002,10.1126/science.1070919
+000085902800047,Target-oriented and diversity-oriented organic synthesis in drug discovery,2000,10.1126/science.287.5460.1964
+000254625500002,Bayesian inference for a discretely observed stochastic kinetic model,2008,10.1007/s11222-007-9043-x
+000266001200001,Efficient, sparse biological network determination,2009,10.1186/1752-0509-3-25
+000311146700001,Accelerated maximum likelihood parameter estimation for stochastic biochemical systems,2012,10.1186/1471-2105-13-68
+000278125200004,Parameter Estimation and Model Selection in Computational Biology,2010,10.1371/journal.pcbi.1000696
+000271349000008,Listening to the noise: random fluctuations reveal gene network parameters,2009,10.1038/msb.2009.75
+000281443000001,Global parameter estimation methods for stochastic biochemical systems,2010,10.1186/1471-2105-11-414
+000378767100017,A Simple, General Result for the Variance of Substitution Number in Molecular Evolution,2016,10.1093/molbev/msw063
+000291052500063,Markov Models of Amino Acid Substitution to Study Proteins with Intrinsically Disordered Regions,2011,10.1371/journal.pone.0020488
+000223865500001,Molecular clock in neutral protein evolution,2004,10.1186/1471-2156-5-25
+000269156100018,Protein Sectors: Evolutionary Units of Three-Dimensional Structure,2009,10.1016/j.cell.2009.07.038
+000244180300023,Thermodynamics of neutral protein evolution,2007,10.1534/genetics.106.061754
+000251371700006,Counting labeled transitions in continuous-time Markov models of evolution,2008,10.1007/s00285-007-0120-8
+000170924900004,On the dispersion index of a Markovian molecular clock,2001,10.1016/S0025-5564(01)00067-0
+000168427400001,A general empirical model of protein evolution derived from multiple protein families using a maximum-likelihood approach,2001,MAY 2001
+000346771900005,Molecular-clock methods for estimating evolutionary rates and timescales,2014,10.1111/mec.12953
+000181511900014,The modern molecular clock,2003,10.1038/nrg1020
+000272309500085,Theory of neutral clustering for growing populations,2009,10.1103/PhysRevE.80.051920
+000249786700086,Molecular clock on a neutral network,2007,10.1103/PhysRevLett.99.138104
+000178938500051,Lack of self-averaging in neutral evolution of proteins,2002,10.1103/PhysRevLett.89.208101
+000086584700009,The index of dispersion of molecular evolution: Slow fluctuations,2000,10.1006/tpbi.1999.1445
+000377785800002,Growth and Dissolution of Macromolecular Markov Chains,2016,10.1007/s10955-016-1532-x
+000323984500004,Information erasure in copolymers,2013,10.1209/0295-5075/103/30004
+000224217400035,Quantitative C-13 NMR analysis of sequence distributions in poly(ethylene-co-1-hexene),2004,10.1021/ac040104i
+000246652300026,Molecular motors: A theorist's perspective,2007,10.1146/annurev.physchem.58.032806.104532
+000357489500009,Thermodynamics of information processing at the molecular scale,2015,10.1140/epjst/e2015-02430-y
+000340712200091,Kinetics and thermodynamics of first-order Markov chain copolymerization,2014,10.1063/1.4890821
+000262372600029,Molecular information processing in nonequilibrium copolymerizations,2009,10.1063/1.3050099
+000355254200014,A general theory of kinetics and thermodynamics of steady-state copolymerization,2015,10.1088/0953-8984/27/23/235105
+000312448800020,Living copolymerization of ethylene/1-octene with fluorinated FI-Ti catalyst,2013,10.1002/pola.26398
+000280227700028,AAB-Sequence Living Radical Chain Copolymerization of Naturally Occurring Limonene with Maleimide: An End-to-End Sequence-Regulated Copolymer,2010,10.1021/ja1042353
+000230220900027,Living copolymerization of ethylene with styrene catalyzed by (cyclopentadienyl)(ketimide)titanium(IV) complex-MAO catalyst system,2005,10.1021/ja052198z
+000224103900054,Living copolymerization of ethylene with norbornene catalyzed by bis(pyrrolide-imine) titanium complexes with MAO,2004,10.1021/ja048357g
+000071146000058,pi-allylic rhodium complex catalyzed living copolymerization of arylallenes with carbon monoxide to give structurally regulated polyketones,1997,10.1021/ja971856f
+000315618800008,Ethylene Polymerization and Ethylene/1-Octene Copolymerization with rac-Dimethylsilylbis(indenyl)hafnium Dimethyl Using Trioctyl Aluminum and Borate: A Polymerization Kinetics Investigation,2013,10.1021/ma302513u
+000271233600072,High-Temperature Living Copolymerization of Ethylene with Norbornene by Titanium Complexes Bearing Bidentate [O, P] Ligands,2009,10.1021/ma901285a
+000269043200023,Living Ring-Opening Homo- and Copolymerization of epsilon-Caprolactone and L- and D,L-Lactides by Dimethyl(salicylaldiminato)aluminum Compounds,2009,10.1021/ma9010439
+000236314800008,Living random copolymerization of propylene and norbornene with ansa-fluorenylamidodimethyltitanium complex: Synthesis of novel syndiotactic polypropylene-b-poly(propylene-ran-norbornene),2006,10.1021/ma060122x
+000353944000002,Force-velocity relation for copolymerization processes,2015,10.1088/1367-2630/17/4/045016
+000269284300001,The large deviation approach to statistical mechanics,2009,10.1016/j.physrep.2009.05.002
+000257784700014,Nonequilibrium generation of information in copolymerization processes,2008,10.1073/pnas.0802049105
+000322884800029,Sequence-Controlled Polymers,2013,10.1126/science.1238149
+000355538900001,Design and synthesis of digitally encoded polymers that can be decoded and erased,2015,10.1038/ncomms8237
+000375482300012,Bayesian inference for nonlinear stochastic SIR epidemic model,2016,10.1080/00949655.2015.1107561
+000207455100006,Bayesian estimation of the basic reproduction number in stochastic epidemic models,2008,10.1214/08-BA328
+000231689900014,Bayesian inference for stochastic kinetic models using a diffusion approximation,2005,10.1111/j.1541-0420.2005.00345.x
+000185220100001,Estimating vaccine effects on transmission of infection from household outbreak data,2003,10.1111/1541-0420.00056
+000171536100001,On inference for partially observed nonlinear diffusion models using the Metropolis-Hastings algorithm,2001,10.1093/biomet/88.3.603
+000252481900003,Bayesian inference for functional response in a stochastic predator-prey system,2008,10.1007/s11538-007-9256-3
+000165743900011,Stochastic sedimentation and hydrodynamic diffusion,2000,10.1016/S1383-5866(00)00079-4
+000169578000005,Likelihood inference for discretely observed nonlinear diffusions,2001,10.1111/1468-0262.00226
+000225684100005,Parametric inference for diffusion processes observed at discrete points in time: a survey,2004,DEC 2004
+000182731600001,Numerical techniques for maximum likelihood estimation of continuous-time diffusion processes,2002,10.1198/073500102288618397
+000168232700005,MCMC analysis of diffusion models with application to finance,2001,10.1198/073500101316970403
+000237597200001,Exact and computationally efficient likelihood-based estimation for discretely observed diffusion processes (with discussion),2006,10.1111/j.1467-9868.2006.00552.x
+000233203400007,Bayesian inference for stochastic multitype epidemics in structured populations via random graphs,2005,10.1111/j.1467-9868.2005.00524.x
+000229080500013,Bayesian inference for epidemics with two levels of mixing,2005,10.1111/j.1467-9469.2005.00420.x
+000220682400004,Bayesian inference for stochastic epidemics in closed populations,2004,10.1191/1471082X04st065oa
+000302534700002,TRANSITION PROBABILITIES FOR GENERALIZED SIR EPIDEMIC MODEL,2012,10.1080/15326349.2011.614201
+000338275300005,Generating generalized inverse Gaussian random variates,2014,10.1007/s11222-013-9387-3
+000378376600005,Assembly of bipolar microtubule structures by passive cross-linkers and molecular motors,2016,10.1103/PhysRevE.93.062415
+000261767000016,Design Features of a Mitotic Spindle: Balancing Tension and Compression at a Single Microtubule Kinetochore Interface in Budding Yeast,2008,10.1146/annurev.genet.42.110807.091620
+000296669800015,Crowding of Molecular Motors Determines Microtubule Depolymerization,2011,10.1016/j.bpj.2011.09.009
+000351951800015,Diffusible Crosslinkers Generate Directed Forces in Microtubule Networks,2015,10.1016/j.cell.2015.01.051
+000280609100019,A Minimal Midzone Protein Module Controls Formation and Length of Antiparallel Microtubule Overlaps,2010,10.1016/j.cell.2010.06.033
+000269923200017,Kinesin-8 Motors Act Cooperatively to Mediate Length-Dependent Microtubule Depolymerization,2009,10.1016/j.cell.2009.07.032
+000246373600017,Cortical microtubule contacts position the spindle in C. elegans embryos,2007,10.1016/j.cell.2007.03.027
+000280899900021,Cytoskeletal Cross-linking and Bundling in Motor-Independent Contraction,2010,10.1016/j.cub.2010.07.004
+000271970200026,Dynein Antagonizes Eg5 by Crosslinking and Sliding Antiparallel Microtubules,2009,10.1016/j.cub.2009.09.025
+000260932700036,Microtubule-Driven Multimerization Recruits ase1p onto Overlapping Microtubules,2008,10.1016/j.cub.2008.09.046
+000241972300023,Spindle oscillations during asymmetric cell division require a threshold number of active cortical force generators,2006,10.1016/j.cub.2006.09.030
+000233770900018,Length control of the metaphase spindle,2005,10.1016/j.cub.2005.09.054
+000222673700023,Positioning and elongation of the fission yeast spindle by microtubule-based pushing,2004,10.1016/j.cub.2004.06.029
+000315541400005,Microtubule organization in vitro,2013,10.1016/j.ceb.2012.12.002
+000244166400005,Microtubule polymerases and depolymerases,2007,10.1016/j.ceb.2006.12.009
+000253888700003,Mechanisms of mitotic spindle assembly and function,2008,INTERNATIONAL REVIEW OF CYTOLOGY-A SURVEY OF CELL BIOLOGY
+000178189700005,Computer simulations reveal motor properties generating stable antiparallel microtubule interactions,2002,10.1083/jcb.200202051
+000295617900016,Adaptive braking by Ase1 prevents overlapping microtubules from sliding completely apart,2011,10.1038/ncb2323
+000240241700011,Yeast kinesin-8 depolymerizes microtubules in a length-dependent manner,2006,10.1038/ncb1462
+000237299400010,Individual dimers of the mitotic kinesin motor Eg5 step processively and support substantial loads in vitro,2006,10.1038/ncb1394
+000330615400002,General theory for the mechanics of confined microtubule asters,2014,10.1088/1367-2630/16/1/013018
+000310441300001,Positioning of microtubule organizing centers by cortical pushing and pulling forces,2012,10.1088/1367-2630/14/10/105025
+000266148700012,The elasticity of motor-microtubule bundles and shape of the mitotic spindle,2009,10.1088/1478-3975/6/1/016005
+000363534300010,Intercentrosomal angular separation during mitosis plays a crucial role for maintaining spindle stability,2015,10.1103/PhysRevE.92.042714
+000335325100003,Segregation of diffusible and directionally moving particles on a polar filament,2014,10.1103/PhysRevE.89.042713
+000310687800011,Impact of motor molecules on the dynamics of treadmilling filaments,2012,10.1103/PhysRevE.86.051906
+000185194400027,Shock formation in an exclusion process with creation and annihilation,2003,10.1103/PhysRevE.68.026117
+000183482200066,Self-organization and mechanical properties of active filament bundles,2003,10.1103/PhysRevE.67.051913
+000178623300061,Growth of fingerlike protrusions driven by molecular motors,2002,10.1103/PhysRevE.66.031904
+000360894300015,Generation of Stable Overlaps between Antiparallel Filaments,2015,10.1103/PhysRevLett.115.118103
+000305569200005,Length Regulation of Active Biopolymers by Molecular Motors,2012,10.1103/PhysRevLett.108.258103
+000305569200006,Microtubule Length Regulation by Molecular Motors,2012,10.1103/PhysRevLett.108.258104
+000227838900068,Filament depolymerization by motor molecules,2005,10.1103/PhysRevLett.94.108102
+000227838900070,Theory of mitotic spindle oscillations,2005,10.1103/PhysRevLett.94.108104
+000181289300036,Phase coexistence in driven one-dimensional transport,2003,10.1103/PhysRevLett.90.086601
+000088846100049,Actively contracting bundles of polar filaments,2000,10.1103/PhysRevLett.85.1778
+000347444400035,Physical basis of spindle self-organization,2014,10.1073/pnas.1409404111
+000338118900006,Centrosomes are autocatalytic droplets of pericentriolar material organized by centrioles,2014,10.1073/pnas.1404855111
+000184340500043,The distribution of active force generators controls mitotic spindle position,2003,10.1126/science.1086560
+000171695600035,Cell cycle - The mitotic spindle: A self-made machine,2001,10.1126/science.1063488
+000357407300029,Length regulation of microtubules by molecular motors: exact solution and density profiles,2015,10.1088/1742-5468/2015/06/P06027
+000207723600031,Eg5 steps it up!,2006,10.1186/1747-1028-1-31
+000284530100001,Active force generation in cross-linked filament bundles without motor proteins,2010,10.1103/PhysRevE.82.050901
+000256459000001,Reverse engineering of force integration during mitosis in the Drosophila embryo,2008,10.1038/msb.2008.23
+000377840300005,A strand graph semantics for DNA-based computation,2016,10.1016/j.tcs.2015.07.041
+000340992300098,Robustness of Localized DNA Strand Displacement Cascades,2014,10.1021/nn503073p
+000340517000010,Computational Design of Nucleic Acid Feedback Control Circuits,2014,10.1021/sb400169s
+000296637500023,Visual DSD: a design and analysis tool for DNA strand displacement systems,2011,10.1093/bioinformatics/btr543
+000333560200014,Functional Analysis of Large-Scale DNA Strand Displacement Circuits,2013,Lecture Notes in Computer Science
+000306630000012,Modelling, Simulating and Verifying Turing-Powerful Strand Displacement Systems,2011,Lecture Notes in Computer Science
+000248095600012,Programmable Self-assembly,2007,10.1109/MCS.2007.384126
+000238660600004,A grammatical approach to self-organizing robotic systems,2006,10.1109/TAC.2006.876950
+000285311200016,NUPACK: Analysis and Design of Nucleic Acid Systems,2011,10.1002/jcc.21596
+000301084200061,Expanding the Rule Set of DNA Circuitry with Associative Toehold Activation,2012,10.1021/ja206690a
+000287909200044,Remote Toehold: A Mechanism for Flexible Control of DNA Hybridization Kinetics,2011,10.1021/ja1073239
+000304437400005,Design and analysis of DNA strand displacement devices using probabilistic model checking,2012,10.1098/rsif.2011.0800
+000299868600006,Abstractions for DNA circuit design,2012,10.1098/rsif.2011.0343
+000306630000008,Localized Hybridization Circuits,2011,Lecture Notes in Computer Science
+000294650000012,Efficient Turing-Universal Computation with DNA Polymers,2011,Lecture Notes in Computer Science
+000253940200011,Abstract interpretation of cellular signalling networks,2008,LECTURE NOTES IN COMPUTER SCIENCE
+000236941100029,PRISM: A tool for automatic verification of probabilistic systems,2006,LECTURE NOTES IN COMPUTER SCIENCE
+000292911200040,Neural network computation with DNA strand displacement cascades,2011,10.1038/nature10262
+000252432100046,Programming biomolecular self-assembly pathways,2008,10.1038/nature06451
+000235997600044,Folding DNA to create nanoscale shapes and patterns,2006,10.1038/nature04586
+000286505700006,Dynamic DNA nanotechnology using strand-displacement reactions,2011,10.1038/NCHEM.957
+000336235800011,Universal compting by DNA origami robots in a living animal,2014,10.1038/NNANO.2014.58
+000325345900019,Programmable chemical controllers made from DNA,2013,10.1038/nnano.2013.189
+000322713500014,Autonomous molecular cascades for evaluation of cell surfaces,2013,10.1038/NNANO.2013.142
+000327249700001,Coarse-graining DNA for simulations of DNA nanotechnology,2013,10.1039/c3cp53545b
+000246776100062,Wormlike chain theory and bending of short DNA,2007,10.1103/PhysRevLett.98.218102
+000275898300025,DNA as a universal substrate for chemical kinetics,2010,10.1073/pnas.0909380107
+000265506800008,Internal coarse-graining of molecular systems,2009,10.1073/pnas.0809908106
+000340593100041,A single-stranded architecture for cotranscriptional folding of RNA nanostructures,2014,10.1126/science.1253920
+000291205200048,Scaling Up Digital Circuit Computation with DNA Strand Displacement Cascades,2011,10.1126/science.1200520
+000250957900041,Engineering entropy-driven reactions and networks catalyzed by DNA,2007,10.1126/science.1148532
+000242624600038,Enzyme-free nucleic acid logic circuits,2006,10.1126/science.1132493
+000303302400012,Stochastic simulation of multiple process calculi for biology,2012,10.1016/j.tcs.2011.12.057
+000224153400005,Formal molecular biology,2004,10.1016/j.tcs.2004.03.065
+000294556800005,Rational, modular adaptation of enzyme-free DNA circuits to multiple detection methods,2011,10.1093/nar/gkr504
+000377155400035,Mobile phone data highlights the role of mass gatherings in the spreading of cholera outbreaks,2016,10.1073/pnas.1522305113
+000290112300003,Cholera Epidemic in Haiti, 2010: Using a Transmission Model to Explain Spatial Spread of Disease and Identify Optimal Control Interventions,2011,10.7326/0003-4819-154-9-201105030-00334
+000309841400004,On the role of human mobility in the spread of cholera epidemics: towards an epidemiological movement ecology,2012,10.1002/eco.262
+000256387900016,Uncovering individual and collective human dynamics from mobile phone records,2008,10.1088/1751-8113/41/22/224015
+000351227000003,On the predictive ability of mechanistic models for the Haitian cholera epidemic,2015,10.1098/rsif.2014.0840
+000341100800032,Theory and data for simulating fine-scale human movement in an urban environment,2014,10.1098/rsif.2014.0642
+000315199800014,The impact of biases in mobile phone ownership on estimates of human mobility,2013,10.1098/rsif.2012.0986
+000298380100016,Modelling cholera epidemics: the role of waterways, human mobility and sanitation,2012,10.1098/rsif.2011.0304
+000280332700001,Modelling the influence of human behaviour on the spread of infectious diseases: a review,2010,10.1098/rsif.2010.0142
+000267696800001,Connectivity sustains disease transmission in environments with low potential for endemicity: modelling schistosomiasis with hydrologic and social connectivities,2009,10.1098/rsif.2008.0265
+000179221100001,Bayesian measures of model complexity and fit,2002,10.1111/1467-9868.00353
+000298515900021,Global perspectives for prevention of infectious diseases associated with mass gatherings,2012,10.1016/S1473-3099(11)70246-8
+000302343400041,A universal model for mobility and migration patterns,2012,10.1038/nature10856
+000258398600034,Inapparent infections and cholera dynamics,2008,10.1038/nature07084
+000230964500043,Refractory periods and climate forcing in cholera dynamics,2005,10.1038/nature03820
+000360383200077,Quantifying seasonal population fluxes driving rubella transmission dynamics using mobile phone data,2015,10.1073/pnas.1423542112
+000306837100025,Predictability of population displacement after the 2010 Haiti earthquake,2012,10.1073/pnas.1203882109
+000303249100055,Reassessment of the 2010-2011 Haiti cholera outbreak and rainfall-driven multiseason projections,2012,10.1073/pnas.1203333109
+000299925000050,Highly localized sensitivity to climate forcing drives endemic cholera in a megacity,2012,10.1073/pnas.1108438109
+000289888500075,Vaccination strategies for epidemic cholera in Haiti with implications for the developing world,2011,10.1073/pnas.1102149108
+000272994200006,Multiscale mobility networks and the spatial spreading of infectious diseases,2009,10.1073/pnas.0906910106
+000235411600005,The role of the airline transportation network in the prediction and predictability of global epidemics,2006,10.1073/pnas.0510525103
+000317106500009,emcee: The MCMC Hammer,2013,10.1086/670067
+000309712300049,Quantifying the Impact of Human Mobility on Malaria,2012,10.1126/science.1223467
+000311888900029,Urban Cholera Transmission Hotspots and Their Implications for Reactive Vaccination: Evidence from Bissau City, Guinea Bissau,2012,10.1371/journal.pntd.0001901
+000286834300093,Human Mobility Networks, Travel Restrictions, and the Global Spread of 2009 H1N1 Pandemic,2011,10.1371/journal.pone.0016591
+000294477300017,Improved Response to Disasters and Outbreaks by Tracking Population Movements with Mobile Phone Network Data: A Post-Earthquake Geospatial Study in Haiti,2011,10.1371/journal.pmed.1001083
+000350552600001,Using Mobile Phone Data to Predict the Spatial Spread of Cholera,2015,10.1038/srep08923
+000288604700005,Prediction of the spatial evolution and effects of control measures for the unfolding Haiti cholera outbreak,2011,10.1029/2011GL046823
+000252572700003,On the space-time evolution of a cholera epidemic,2008,10.1029/2007WR006211
+000172654300001,Endemic and epidemic dynamics of cholera: the role of the aquatic reservoir,2001,10.1186/1471-2334-1-1
+000308221300100,Cholera Outbreak in Senegal in 2005: Was Climate a Factor?,2012,10.1371/journal.pone.0044577
+000316545300001,Unique in the Crowd: The privacy bounds of human mobility,2013,10.1038/srep01376
+000346701000029,Glucose- but Not Rice-Based Oral Rehydration Therapy Enhances the Production of Virulence Determinants in the Human Pathogen Vibrio cholerae,2014,10.1371/journal.pntd.0003347
+000302873700087,Population Distribution, Settlement Patterns and Accessibility across Africa in 2010,2012,10.1371/journal.pone.0031743
+000325536600002,Approaching the Limit of Predictability in Human Mobility,2013,10.1038/srep02923
+000296051100001,Modeling human mobility responses to the large-scale spreading of infectious diseases,2011,10.1038/srep00062
+000340741700006,Inferring human mobility using communication patterns,2014,10.1038/srep06174
+000331407100001,Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning,2014,10.1186/1475-2875-13-52
+000339890900031,On the Use of Human Mobility Proxies for Modeling Epidemics,2014,10.1371/journal.pcbi.1003716
+000313551500037,The Use of Census Migration Data to Approximate Human Movement Patterns across Temporal Scales,2013,10.1371/journal.pone.0052971
+000305345200032,Heterogeneous Mobile Phone Ownership and Usage Patterns in Kenya,2012,10.1371/journal.pone.0035319
+000338936200004,Quantifying travel behavior for infectious disease research: a comparison of data from surveys and mobile phones,2014,10.1038/srep05678
+000376987100001,Gene switching rate determines response to extrinsic perturbations in the self-activation transcriptional network motif,2016,10.1038/srep26980
+000246811700020,From single-cell genetic architecture to cell population dynamics: Quantitatively decomposing the effects of different population heterogeneity sources for a genetic network with positive feedback architecture,2007,10.1529/biophysj.106.100271
+000175802700011,Attenuation of noise in ultrasensitive signaling cascades,2002,JUN 2002
+000172407800010,Stochasticity in transcriptional regulation: Origins, consequences, and mathematical representations,2001,DEC 2001
+000165749000003,Engineering aspects of enzymatic signal transduction: Photoreceptors in the retina,2000,DEC 2000
+000290194500004,Optimal parameter settings for information processing in gene regulatory networks,2011,10.1016/j.biosystems.2011.01.006
+000236183600001,Multistable and multistep dynamics in neutrophil differentiation,2006,10.1186/1471-2121-7-11
+000303785300004,Periodic perturbation of genetic oscillations,2012,10.1016/j.chaos.2011.12.008
+000314490300015,Towards a statistical mechanics of cell fate decisions,2012,10.1016/j.gde.2012.10.004
+000188778500004,Signaling switches and bistability arising from multisite phosphorylation in protein kinase cascades,2004,10.1083/jcb.200308060
+000229856400009,Epidermal growth factor receptor gene and protein and gefitinib sensitivity in non-small-cell lung cancer,2005,10.1093/jnci/dji112
+000284529300009,Non-equilibrium phase transition in mesoscopic biochemical systems: from stochastic to nonlinear dynamics and beyond,2011,10.1098/rsif.2010.0202
+000276992100008,Computational limits to binary genes,2010,10.1098/rsif.2009.0474
+000313758500016,Type of noise defines global attractors in bistable molecular regulatory systems,2013,10.1016/j.jtbi.2012.10.004
+000293672600010,Negative feedback and physical limits of genes,2011,10.1016/j.jtbi.2011.06.021
+000280374100015,Tumour suppression by immune system through stochastic oscillations,2010,10.1016/j.jtbi.2010.05.013
+000259251000026,Oscillations and bistability in the stochastic model of p53 regulation,2008,10.1016/j.jtbi.2008.05.039
+000234770700011,Transcriptional stochasticity in gene expression,2006,10.1016/j.jtbi.2005.05.032
+000226699300009,High-dimensional switches and the modelling of cellular differentiation,2005,10.1016/j.jtbi.2004.10.027
+000243253200007,Phenotypic consequences of promoter-mediated transcriptional noise,2006,10.1016/j.molcel.2006.11.003
+000341089700003,Bounded noises as a natural tool to model extrinsic fluctuations in biomolecular networks,2014,10.1007/s11047-014-9424-y
+000281616300026,Functional roles for noise in genetic circuits,2010,10.1038/nature09326
+000235997600057,Stochastic protein expression in individual cells at the single molecule level,2006,10.1038/nature04599
+000229021100046,Enhancement of cellular memory by reducing stochastic transitions,2005,10.1038/nature03524
+000186800800042,A positive-feedback-based bistable 'memory module' that governs a cell fate decision,2003,10.1038/nature02089
+000182111400047,Noise in eukaryotic gene expression,2003,10.1038/nature01546
+000179200900060,Control, exploitation and tolerance of intracellular noise,2002,10.1038/nature01258
+000087449500056,Engineering stability in gene networks by autoregulation,2000,10.1038/35014651
+000084899700060,Construction of a genetic toggle switch in Escherichia coli,2000,JAN 20 2000
+000231591900017,Contributions of low molecule number and chromosomal positioning to stochastic gene expression,2005,10.1038/ng1616
+000319668700029,Absolute quantification of transcription factors during cellular differentiation using multiplexed targeted proteomics,2013,10.1038/NMETH.2441
+000087991600009,Mathematical modeling of gene networks,2000,10.1016/S0896-6273(00)81194-0
+000262775600015,Effect of multiplicative and additive noise on genetic transcriptional regulatory mechanism,2009,10.1016/j.physa.2008.10.030
+000232987900003,Transitions induced by bounded noise,2005,10.1016/j.physa.2005.03.055
+000222154400013,Effect of non-Gaussian noise sources in a noise-induced transition,2004,10.1016/j.physd.2004.01.017
+000245433600004,Positive feedback, stochasticity and genetic competence,2007,10.1088/1478-3975/4/1/004
+000234227100003,Graded and binary responses in stochastic gene expression,2004,PII S1478-3967(04)82865-1
+000286738400003,Resistance to antitumor chemotherapy due to bounded-noise-induced transitions,2010,10.1103/PhysRevE.82.061901
+000225689500051,Fluctuations-induced switch in the gene transcriptional regulatory system,2004,10.1103/PhysRevE.70.041907
+000322595300013,Extrinsic Noise Driven Phenotype Switching in a Self-Regulating Gene,2013,10.1103/PhysRevLett.111.058102
+000221483600002,Modeling of bounded stochastic processes,2004,10.1016/j.probengmech.2004.02.002
+000265506800040,Bistable switches control memory and plasticity in cellular differentiation,2009,10.1073/pnas.0806137106
+000169967000074,Intrinsic noise in gene regulatory networks,2001,10.1073/pnas.151588598
+000085633200023,Noise-based switches and amplifiers for gene expression,2000,10.1073/pnas.040411297
+000331194000002,Noise in biology,2014,10.1088/0034-4885/77/2/026601
+000289784900045,Mammalian Genes Are Transcribed with Widely Different Bursting Kinetics,2011,10.1126/science.1198817
+000254633000029,Stochasticity and cell fate,2008,10.1126/science.1147888
+000244069000070,Relative impact of nucleotide and copy number variation on gene expression phenotypes,2007,10.1126/science.1136678
+000177447600051,Stochastic gene expression in a single cell,2002,10.1126/science.1070919
+000315186000001,The Interplay of Intrinsic and Extrinsic Bounded Noises in Biomolecular Networks,2013,10.1371/journal.pone.0051174
+000302873700055,Asymmetric Stochastic Switching Driven by Intrinsic Molecular Noise,2012,10.1371/journal.pone.0031407
+000336858300007,Investigating the Relation between Stochastic Differentiation, Homeostasis and Clonal Expansion in Intestinal Crypts via Multiscale Modeling,2014,10.1371/journal.pone.0097272
+000308738500088,Cooperative Binding of Transcription Factors Promotes Bimodal Gene Expression Response,2012,10.1371/journal.pone.0044812
+000339157000007,The linear interplay of intrinsic and extrinsic noises ensures a high accuracy of cell fate selection in budding yeast,2014,10.1038/srep05764
+000346656700037,The Pharmacodynamics of the p53-Mdm2 Targeting Drug Nutlin: The Role of Gene-Switching Noise,2014,10.1371/journal.pcbi.1003991
+000241338000005,Stochastic mRNA synthesis in mammalian cells,2006,10.1371/journal.pbio.0040309
+000256459000003,Colored extrinsic fluctuations and stochastic gene expression,2008,10.1038/msb.2008.31
+000326734500035,Stochastic Stabilization of Phenotypic States: The Genetic Bistable Switch as a Case Study,2013,10.1371/journal.pone.0073487
+000377831800025,Generalized local and nonlocal master equations for some stochastic processes,2016,10.1016/j.camwa.2015.09.030
+000276047000002,Application of Population Dynamics to Study Heterotypic Cell Aggregations in the Near-Wall Region of a Shear Flow,2010,10.1007/s12195-010-0114-2
+000248398400007,Family tree of Markov models in systems biology,2007,10.1049/iet-syb:20070017
+000299587400005,CLASSICAL, NONLOCAL, AND FRACTIONAL DIFFUSION EQUATIONS ON BOUNDED DOMAINS,2011,2011
+000278180300003,Gene expression dynamics in randomly varying environments,2010,10.1007/s00285-009-0298-z
+000307609900012,Fokker-Planck equations for nonlinear dynamical systems driven by non-Gaussian Levy processes,2012,10.1063/1.4732102
+000240070500007,Monte Carlo simulation of heterotypic cell aggregation in nonlinear shear flow,2006,OCT 2006
+000318013300005,A NONLOCAL VECTOR CALCULUS, NONLOCAL VOLUME-CONSTRAINED PROBLEMS, AND NONLOCAL BALANCE LAWS,2013,10.1142/S0218202512500546
+000180287400004,Stochastic Lagrangian models and algorithms for spatially inhomogeneous Smoluchowski equation,2003,10.1016/S0378-4754(02)00141-6
+000165587600014,Fractional calculus and continuous-time finance II: the waiting-time distribution,2000,10.1016/S0378-4371(00)00386-1
+000338783300001,MEAN EXIT TIME AND ESCAPE PROBABILITY FOR DYNAMICAL SYSTEMS DRIVEN BY LEVY NOISES,2014,10.1137/120897262
+000311034000003,Analysis and Approximation of Nonlocal Diffusion Problems with Volume Constraints,2012,10.1137/110833294
+000376599100007,Infomax Strategies for an Optimal Balance Between Exploration and Exploitation,2016,10.1007/s10955-016-1521-0
+000323271500006,KULLBACK-LEIBLER UPPER CONFIDENCE BOUNDS FOR OPTIMAL SEQUENTIAL ALLOCATION,2013,10.1214/13-AOS1119
+000335628800011,Information theory of adaptation in neurons, behavior, and mood,2014,10.1016/j.conb.2013.11.007
+000278984000014,Predicting embryonic patterning using mutual entropy fitness and in silico evolution,2010,10.1242/dev.048033
+000341982200007,Renyi Divergence and Kullback-Leibler Divergence,2014,10.1109/TIT.2014.2320500
+000289199800002,Information transmission in genetic regulatory networks: a review,2011,10.1088/0953-8984/23/15/153102
+000289443500002,The Value of Information for Populations in Varying Environments,2011,10.1007/s10955-011-0166-2
+000173114300005,Finite-time analysis of the multiarmed bandit problem,2002,10.1023/A:1013689704352
+000243689500034,'Infotaxis' as a strategy for searching without gradients,2007,10.1038/nature05464
+000296052500047,Information Transduction Capacity of Noisy Biochemical Signaling Networks,2011,10.1126/science.1204553
+000232181900057,Phenotypic diversity, population growth, and information in fluctuating environments,2005,10.1126/science.1114383
+000275557500004,The fitness value of information,2010,10.1111/j.1600-0706.2009.17781.x
+000236765200007,ARACNE: An algorithm for the reconstruction of gene regulatory networks in a mammalian cellular context,2006,10.1186/1471-2105-7-S1-S7
+000376708500009,A model of gene expression based on random dynamical systems reveals modularity properties of gene regulatory networks,2016,10.1016/j.mbs.2016.03.008
+000277960500011,Functional Motifs in Biochemical Reaction Networks,2010,10.1146/annurev.physchem.012809.103457
+000178678800014,Genetic "Code": Representations and dynamical models of genetic components and networks,2002,10.1146/annurev.genom.3.030502.111004
+000246652300003,Stochastic simulation of chemical kinetics,2007,10.1146/annurev.physchem.58.032806.104637
+000172407800010,Stochasticity in transcriptional regulation: Origins, consequences, and mathematical representations,2001,DEC 2001
+000327073000014,Multimodality and Flexibility of Stochastic Gene Expression,2013,10.1007/s11538-013-9909-3
+000238386400002,Nonlinear dynamics of networks: The groupoid formalism,2006,10.1090/S0273-0979-06-01108-6
+000174039000003,A unified theory of gene expression,2002,10.1016/S0092-8674(02)00655-4
+000272308100027,Quasi-periodic states in coupled rings of cells,2010,10.1016/j.cnsns.2009.05.035
+000223214600017,Noise, delays, robustness, canalization and all that,2004,10.1016/j.gde.2004.06.001
+000223864200002,Combinatorial dynamics,2004,10.1080/14689360410001729379
+000251696400018,Minimization of transcriptional temporal noise and scale invariance in the yeast genome,2007,2007
+000281622300003,Symmetry in biology: from genetic code to stochastic gene regulation,2010,10.1049/iet-syb.2010.0058
+000242248500002,Overlapping self-affine sets,2006,10.1512/iumj.2006.55.2718
+000278247800001,Difference equations with random delay,2009,10.1080/10236190802612865
+000184229900009,Real-time imaging of gene promoter activity using an adenoviral reporter construct demonstrates transcriptional dynamics in normal anterior pituitary cells,2003,10.1677/joe.0.1780061
+000247573200015,Asymptotic behavior of distributions of mRNA and protein levels in a model of stochastic gene expression,2007,10.1016/j.jmaa.2006.11.043
+000278180300003,Gene expression dynamics in randomly varying environments,2010,10.1007/s00285-009-0298-z
+000248907200006,Modeling stochastic gene expression under repression,2007,10.1007/s00285-007-0090-x
+000243372800002,A generalized model of the repressilator,2006,10.1007/s00285-006-0035-9
+000289487200004,Dynamics of Coupled Cell Networks: Synchrony, Heteroclinic Cycles and Inflation,2011,10.1007/s00332-010-9083-9
+000288312400010,Molecular distributions in gene regulatory dynamics,2011,10.1016/j.jtbi.2011.01.020
+000263141900001,Stochasticity in single gene expression with both intrinsic noise and fluctuation in kinetic parameters,2009,10.1016/j.jtbi.2008.10.028
+000234770700011,Transcriptional stochasticity in gene expression,2006,10.1016/j.jtbi.2005.05.032
+000222693600009,Frequency domain chemical Langevin analysis of stochasticity in gene transcriptional regulation,2004,10.1016/j.jtbi.2004.04.017
+000186990400012,Fluctuations in transcription factor binding can explain the graded and binary responses observed in inducible gene expression,2004,10.1016/j.jtbi.2003.08.008
+000207833700004,On the Use of the Hill Functions in Mathematical Models of Gene Regulatory Networks,2008,10.1051/mmnp:2008056
+000188470500035,Summing up the noise in gene networks,2004,10.1038/nature02257
+000175362500017,Regulation of noise in the expression of a single gene,2002,10.1038/ng869
+000229490100011,Stochasticity in gene expression: From theories to phenotypes,2005,10.1038/nrg1615
+000232140500017,Patterns of synchrony in lattice dynamical systems,2005,10.1088/0951-7715/18/5/016
+000233603100060,Self-regulating gene: An exact solution,2005,10.1103/PhysRevE.72.051907
+000248041800003,Models of stochastic gene expression,2005,10.1016/j.plrev.2005.03.003
+000181365000040,Stochastic gene expression as a many-body problem,2003,10.1073/pnas.2627987100
+000169967000074,Intrinsic noise in gene regulatory networks,2001,10.1073/pnas.151588598
+000174548700003,Statistical mechanics of complex networks,2002,10.1103/RevModPhys.74.47
+000302703900039,Using Gene Expression Noise to Understand Gene Regulation,2012,10.1126/science.1216379
+000248339800049,Noise in gene expression determines cell fate in Bacillus subtilis,2007,10.1126/science.1140818
+000232181900035,Noise in gene expression: Origins, consequences, and control,2005,10.1126/science.1105891
+000222089500048,Control of stochasticity in eukaryotic gene expression,2004,10.1126/science.1098641
+000178791200051,Transcriptional regulatory networks in Saccharomyces cerevisiae,2002,10.1126/science.1075090
+000177447600051,Stochastic gene expression in a single cell,2002,10.1126/science.1070919
+000228467500004,Patterns of synchrony in coupled cell networks with multiple arrows,2005,10.1137/040612634
+000220731100004,Symmetry groupoids and patterns of synchrony in coupled cell networks,2003,10.1137/S1111111103419896
+000183800600002,The structure and function of complex networks,2003,10.1137/S003614450342480
+000225711300022,Notes on Bernoulli convolutions,2004,PROCEEDINGS OF SYMPOSIA IN PURE MATHEMATICS
+000170760800008,A note on a theorem of Karlin,2001,10.1016/S0167-7152(01)00045-1
+000255771400066,Out-of-equilibrium dynamics of gene expression and the Jarzynski equality,2008,10.1103/PhysRevLett.100.188101
+000278714900001,Dynamical properties of the repressilator model,2010,10.1103/PhysRevE.81.066206
+000165174200012,Random dynamical systems arising from iterated function systems with place-dependent probabilities,2000,10.1016/S0167-7152(00)00130-9
+000303237000009,Relating network rigidity, time scale hierarchies, and expression noise in gene networks,2012,10.1103/PhysRevE.85.041919
+000292260900013,Exact time-dependent solutions for a self-regulating gene,2011,10.1103/PhysRevE.83.062902
+000376763500006,Probability 1 computation with chemical reaction networks,2016,10.1007/s11047-015-9501-x
+000273389300027,Programmability of Chemical Reaction Networks,2009,10.1007/978-3-540-88869-7_27
+000288255800025,Strand algebras for DNA computing,2011,10.1007/s11047-010-9236-7
+000325345900019,Programmable chemical controllers made from DNA,2013,10.1038/nnano.2013.189
+000275898300025,DNA as a universal substrate for chemical kinetics,2010,10.1073/pnas.0909380107
+000344922100008,Deterministic function computation with chemical reaction networks,2014,10.1007/s11047-013-9393-6
+000259487000033,Termination problems in chemical kinetics,2008,LECTURE NOTES IN COMPUTER SCIENCE
+000376924100009,Redundancy in information transmission in a two-step cascade,2016,10.1103/PhysRevE.93.052422
+000228496100002,Transcriptional regulation by the numbers: models,2005,10.1016/j.gde.2005.02.007
+000186357000014,Fast evaluation of fluctuations in biochemical networks with the linear noise approximation,2003,10.1101/gr.1196503
+000241248400078,Exact results for noise power spectra in linear biochemical reaction networks,2006,10.1063/1.2356472
+000087750800036,The chemical Langevin equation,2000,PII [S0021-9606(00)50925-8]
+000225350900008,Efficient attenuation of stochasticity in gene expression through post-transcriptional control,2004,10.1016/j.jmb.2004.09.073
+000187397400005,Synergy, redundancy, and independence in population codes,2003,DEC 17 2003
+000289199800002,Information transmission in genetic regulatory networks: a review,2011,10.1088/0953-8984/23/15/153102
+000281616300027,Fundamental limits on the suppression of molecular fluctuations,2010,10.1038/nature09333
+000188470500035,Summing up the noise in gene networks,2004,10.1038/nature02257
+000169528500041,Nonlinear limits to the information capacity of optical fibre communications,2001,10.1038/35082518
+000246603400012,Network motifs: theory and experimental approaches,2007,10.1038/nrg2102
+000354252100006,Exploration of synergistic and redundant information sharing in static and dynamical Gaussian systems,2015,10.1103/PhysRevE.91.052802
+000333698800009,Role of functionality in two-component signal transduction: A stochastic study,2014,10.1103/PhysRevE.89.032713
+000307443000005,Feed-forward loops and diamond motifs lead to tunable transmission of information in the frequency domain,2012,10.1103/PhysRevE.86.021913
+000282134100010,Effect of feedback on the fidelity of information transmission of time-varying signals,2010,10.1103/PhysRevE.82.031914
+000258178600079,Information capacity of genetic regulatory elements,2008,10.1103/PhysRevE.78.011910
+000257230500067,Cooperativity, sensitivity, and noise in biochemical signaling,2008,10.1103/PhysRevLett.100.258101
+000248041800003,Models of stochastic gene expression,2005,10.1016/j.plrev.2005.03.003
+000258905700032,Information flow and optimization in transcriptional regulation,2008,10.1073/pnas.0806077105
+000230665800012,Physical limits to biochemical signaling,2005,10.1073/pnas.0504321102
+000331194000002,Noise in biology,2014,10.1088/0034-4885/77/2/026601
+000296052500047,Information Transduction Capacity of Noisy Biochemical Signaling Networks,2011,10.1126/science.1204553
+000343783100014,Information theory and signal transduction systems: From molecular information processing to network inference,2014,10.1016/j.semcdb.2014.06.011
+000316864200036,The Fidelity of Dynamic Signaling by Noisy Biomolecular Networks,2013,10.1371/journal.pcbi.1002965
+000270800100012,Noise Management by Molecular Networks,2009,10.1371/journal.pcbi.1000506
+000362902300002,Linear-noise approximation and the chemical master equation agree up to second-order moments for a class of chemical systems,2015,10.1103/PhysRevE.92.042124
+000374268100001,Limits on information transduction through amplitude and frequency regulation of transcription factor activity,2015,10.7554/eLife.06559
+000356768100009,Role of Relaxation Time Scale in Noisy Signal Transduction,2015,10.1371/journal.pone.0123242
+000260722900003,A quantitative comparison of sRNA-based and protein-based gene regulation,2008,10.1038/msb.2008.58
+000239690900057,Signal detection, modularity, and the correlation between extrinsic and intrinsic noise in biochemical networks,2006,10.1103/PhysRevLett.97.068102
+000270383400119,Optimizing information flow in small genetic networks,2009,10.1103/PhysRevE.80.031920
+000264302900044,The Role of Input Noise in Transcriptional Regulation,2008,10.1371/journal.pone.0002774
+000278851600002,Mutual information in time-varying biochemical systems,2010,10.1103/PhysRevE.81.061917
+000277265700089,Optimizing information flow in small genetic networks. II. Feed-forward interactions,2010,10.1103/PhysRevE.81.041905
+000207458500022,Optimal Signal Processing in Small Stochastic Biochemical Networks,2007,10.1371/journal.pone.0001077
+000377146100045,Modeling Effects of RNA on Capsid Assembly Pathways via Coarse-Grained Stochastic Simulation,2016,10.1371/journal.pone.0156547
+000304783200005,A Trimer of Dimers Is the Basic Building Block for Human Immunodeficiency Virus-1 Capsid Assembly,2012,10.1021/bi300052h
+000178260400002,Weak protein-protein interactions are sufficient to drive assembly of hepatitis B virus capsids,2002,10.1021/bi0261645
+000329407700036,Applying Molecular Crowding Models to Simulations of Virus Capsid Assembly In Vitro,2014,10.1016/j.bpj.2013.11.022
+000310100400019,Early Stages of the HIV-1 Capsid Protein Lattice Formation,2012,10.1016/j.bpj.2012.09.007
+000309571400017,Surveying Capsid Assembly Pathways through Simulation-Based Data Fitting,2012,10.1016/j.bpj.2012.08.057
+000292224100022,Simulated Self-Assembly of the HIV-1 Capsid: Protein Shape and Native Contacts Are Sufficient for Two-Dimensional Lattice Formation,2011,10.1016/j.bpj.2011.05.025
+000281721500004,Exploring the Paths of (Virus) Assembly,2010,10.1016/j.bpj.2010.06.030
+000275842200020,Understanding the Concentration Dependence of Viral Capsid Assembly Kinetics-the Origin of the Lag Time and Identifying the Critical Nucleus Size,2010,10.1016/j.bpj.2009.11.023
+000273433800003,Role of Protein Interactions in Defining HIV-1 Viral Capsid Shape and Stability: A Coarse-Grained Analysis,2010,10.1016/j.bpj.2009.09.049
+000266376200004,Size Regulation of ss-RNA Viruses,2009,10.1529/biophysj.108.137489
+000252243200008,Exploring the parameter space of complex self-assembly through virus capsid models,2008,10.1529/biophysj.107.107284
+000238288200007,Dynamic pathways for viral capsid assembly,2006,10.1529/biophysj.105.076851
+000235709500009,Classical nucleation theory of virus capsids,2006,10.1529/biophysj.105.072975
+000233885100009,Simulation study of the contribution of oligomer/oligomer binding to capsid assembly kinetics,2006,10.1529/biophysj.105.072207
+000222035200050,Competing hydrophobic and screened-Coulomb interactions in hepatitis B virus capsid assembly,2004,10.1529/biophysj.104.040055
+000345506300021,Global Changes in the RNA Binding Specificity of HIV-1 Gag Regulate Virion Genesis,2014,10.1016/j.cell.2014.09.057
+000328618600002,Viral genome structures are optimal for capsid assembly,2013,10.7554/eLife.00632
+000254906800008,Structural transitions of encapsidated polyelectrolytes,2008,10.1140/epje/i2007-10301-6
+000319387700010,Packaging signals in single-stranded RNA viruses: nature's alternative to a purely electrostatic assembly mechanism,2013,10.1007/s10867-013-9313-0
+000319387700011,Impact of the topology of viral RNAs on their encapsulation by virus coat proteins,2013,10.1007/s10867-013-9307-y
+000227733600006,Queue-based method for efficient simulation of biological self-assembly systems,2005,10.1016/j.jcp.2004.10.004
+000341539200005,Pathways for Virus Assembly around Nucleic Acids,2014,10.1016/j.jmb.2014.07.004
+000323860300016,Packaging Signals in Two Single-Stranded RNA Viruses Imply a Conserved Assembly Mechanism and Geometry of the Packaged Genome,2013,10.1016/j.jmb.2013.06.005
+000248121500020,Packaging of a flexible polyelectrolyte inside a viral capsid: Effect of salt concentration and salt valence,2007,10.1021/jp068384o
+000274848300002,Modelling the self-assembly of virus capsids,2010,10.1088/0953-8984/22/10/104101
+000310046400013,A model for the structure of satellite tobacco mosaic virus,2012,10.1016/j.jsb.2012.06.008
+000304570700024,RNA Encapsidation by SV40-Derived Nanoparticles Follows a Rapid Two-State Mechanism,2012,10.1021/ja2110703
+000333676400011,Deciphering the Role of the Gag-Pol Ribosomal Frameshift Signal in HIV-1 RNA Genome Packaging,2014,10.1128/JVI.03745-13
+000329857000014,Comparative Analysis of Hepatitis B Virus Polymerase Sequences Required for Viral RNA Binding, RNA Packaging, and Protein Priming,2014,10.1128/JVI.02852-13
+000325863400023,Transmissible Gastroenteritis Coronavirus Genome Packaging Signal Is Located at the 5 ' End of the Genome and Promotes Viral RNA Incorporation into Virions in a Replication-Independent Process,2013,10.1128/JVI.01836-13
+000310356400028,In Vitro Quantification of the Relative Packaging Efficiencies of Single-Stranded RNA Molecules by Viral Capsid Protein,2012,10.1128/JVI.01695-12
+000301371500061,Roles of the Coding and Noncoding Regions of Rift Valley Fever Virus RNA Genome Segments in Viral RNA Packaging,2012,10.1128/JVI.06700-11
+000300634100039,Self-Assembly of Viral Capsid Protein and RNA Molecules of Different Sizes: Requirement for a Specific High Protein/RNA Mass Ratio,2012,10.1128/JVI.06566-11
+000228814400035,Capsid protein synthesis from replicating RNA directs specific packaging of the genome of a multipartite, positive-strand RNA virus,2005,10.1128/JVI.79.10.6239-6248.2005
+000236574400030,Polymer chains in confined spaces and flow-injection problems: Some remarks,2006,10.1021/ma0514424
+000244206500022,Deciphering the kinetic mechanism of spontaneous self-assembly of icosahedral capsids,2007,10.1021/nl062449h
+000333647300005,RNA topology remolds electrostatic stabilization of viruses,2014,10.1103/PhysRevE.89.032707
+000315379900009,Building a viral capsid in the presence of genomic RNA,2013,10.1103/PhysRevE.87.022717
+000278148400105,Thermodynamics of nanospheres encapsulated in virus capsids,2010,10.1103/PhysRevE.81.051919
+000261213600080,Nonspecific interactions in spontaneous assembly of empty versus functional single-stranded RNA viruses,2008,10.1103/PhysRevE.78.051915
+000230274500078,Electrostatics and the assembly of an RNA virus,2005,10.1103/PhysRevE.71.061928
+000333985200071,Solving a Levinthal's paradox for virus assembly identifies a unique antiviral strategy,2014,10.1073/pnas.1319479111
+000299154000036,Ionic strength-dependent persistence lengths of single-stranded RNA and DNA,2012,10.1073/pnas.1119057109
+000295973800028,Thermodynamic basis for the genome to capsid charge relationship in viral encapsidation,2011,10.1073/pnas.1109307108
+000242249400022,Electrostatic origin of the genome packing in viruses,2006,10.1073/pnas.0608311103
+000186449400001,Are weak protein-protein interactions the general rule in capsid assembly?,2003,10.1016/S0042-6822(03)00586-5
+000165628300023,Mechanism of capsid assembly for an icosahedral plant virus,2000,10.1006/viro.2000.0619
+000285334500004,Encapsulation of a polymer by an icosahedral virus,2010,10.1088/1478-3975/7/4/045003
+000236601100003,Stochastic kinetics of viral capsid assembly based on detailed protein structures,2006,10.1529/biophysj.105.076737
+000309816500026,Structural Organization of Pregenomic RNA and the Carboxy-Terminal Domain of the Capsid Protein of Hepatitis B Virus,2012,10.1371/journal.ppat.1002919
+000236253403023,Implementation of a discrete event simulator for biological self-assembly systems,2005,2005
+000376436700006,Chromosome Compaction by Active Loop Extrusion,2016,10.1016/j.bpj.2016.02.041
+000172991500023,Disseminating the genome: Joining, resolving, and separating sister chromatids during mitosis and meiosis,2001,10.1146/annurev.genet.35.102401.091334
+000355152600019,Chromosomes Progress to Metaphase in Multiple Discrete Steps via Global Compaction/Expansion Cycles,2015,10.1016/j.cell.2015.04.030
+000185815500013,Differential contributions of condensin I and condensin II to mitotic chromosome architecture in vertebrate cells,2003,10.1016/S0092-8674(03)00724-4
+000249544500004,Chromosome protein framework from proteome analysis of isoated human metaphase chromosomes,2007,10.1002/tcr.20120
+000233248300008,Chromosome structure: improved immunolabeling for electron microscopy,2005,10.1007/s00412-005-0023-7
+000255680800010,Micromechanical studies of mitotic chromosomes,2008,10.1007/s10577-008-1233-7
+000185287300002,Micromechanical studies of mitotic chromosomes,2003,CURRENT TOPICS IN DEVELOPMENTAL BIOLOGY
+000235789400017,Condensin I stabilizes chromosomes mechanically through a dynamic interaction in live cells,2006,10.1016/j.cub.2005.12.040
+000279061300007,SF1 and SF2 helicases: family matters,2010,10.1016/j.sbi.2010.03.011
+000182692800006,A two-step scaffolding model for mitotic chromosome assembly,2003,10.1016/S1534-5807(03)00092-3
+000307160000004,Condensins: universal organizers of chromosomes with diverse functions,2012,10.1101/gad.194746.112
+000188554300076,Cell cycle-dependent phosphorylation, nuclear localization, and activation of human condensin,2004,10.1074/jbc.M310925200
+000337998900005,Mps l phosphorylation of condensin II controls chromosome condensation at the onset of mitosis,2014,10.1083/jcb.201308172
+000223708100001,Human chromokinesin KIF4A functions in chromosome condensation and segregation,2004,10.1083/jcb.200401142
+000247096000006,A DNA-translocating Snf2 molecular motor: Saccharomyces cerevisiae Rdh5,4 displays processive translocation and extrudes DNA loops,2007,10.1016/j.jmb.2007.04.005
+000223540200016,Real-time observation of DNA translocation by the type I restriction modification enzyme EcoR124I,2004,10.1038/nsmb816
+000321057100024,The SMC1-SMC3 cohesin heterodimer structures DNA through supercoiling-dependent loop formation,2013,10.1093/nar/gkt303
+000313414800011,Self-organization of domain structures by DNA-loop-extruding enzymes,2012,10.1093/nar/gks925
+000248603900031,Fast-scan atomic force microscopy reveals that the type III restriction enzyme EcoP151 is capable of DNA translocation and looping,2007,10.1073/pnas.0700483104
+000327223500035,Organization of the Mitotic Chromosome,2013,10.1126/science.1236083
+000300674900021,Loops Determine the Mechanical Properties of Mitotic Chromosomes,2011,10.1371/journal.pone.0029225
+000376814800005,Diaphanous formin mDia2 regulates CENP-A levels at centromeres,2016,10.1083/jcb.201512034
+000365078200023,Novel localization of formin mDia2: importin beta-mediated delivery to and retention at the cytoplasmic side of the nuclear envelope,2015,10.1242/bio.013649
+000340943600018,Polo-like Kinase 1 Licenses CENP-A Deposition at Centromeres,2014,10.1016/j.cell.2014.06.016
+000265677200017,Centromere-Specific Assembly of CENP-A Nucleosomes Is Mediated by HJURP,2009,10.1016/j.cell.2009.02.039
+000265677200018,HJURP Is a Cell-Cycle-Dependent Maintenance and Deposition Factor of CENP-A at Centromeres,2009,10.1016/j.cell.2009.02.040
+000223992400008,Mis16 and Mis18 are required for CENP-A loading and histone deacetylation at centromeres,2004,10.1016/j.cell.2004.09.002
+000221499700011,Crystal structures of a formin homology-2 domain reveal a tethered dimer architecture,2004,10.1016/S0092-8674(04)00210-7
+000181252600002,Centromeres and kinetochores: From epigenetics to mitotic checkpoint signaling,2003,10.1016/S0092-8674(03)00115-6
+000353708900013,A dynein independent role of Tctex-1 at the kinetochore,2015,10.1080/15384101.2014.1000217
+000288737600011,Aurora B Regulates Formin mDia3 in Achieving Metaphase Chromosome Alignment,2011,10.1016/j.devcel.2011.01.008
+000245086900005,Priming of centromere for CENP-A recruitment by human hMis18 alpha, hMis18 beta, and M18BP1,2007,10.1016/j.devcel.2006.11.002
+000373440700001,DNA damage induces nuclear actin filament assembly by Formin-2 and Spire-1/2 that promotes efficient DNA repair,2015,10.7554/eLife.07735
+000305370800004,Replicating centromeric chromatin: Spatial and temporal control of CENP-A assembly,2012,10.1016/j.yexcr.2012.04.007
+000263560600039,mDia2 Shuttles between the Nucleus and the Cytoplasm through the Importin-alpha/beta- and CRM1-mediated Nuclear Transport Mechanism,2009,10.1074/jbc.M806191200
+000293121700008,HJURP is a CENP-A chromatin assembly factor sufficient to form a functional de novo kinetochore,2011,10.1083/jcb.201012017
+000255789900014,The formin mDia2 stabilizes microtubules independently of its actin nucleation activity,2008,10.1083/jcb.200709029
+000244863900005,Functional genomics identifies a Myb domain-containing protein family required for assembly of CENP-A chromatin,2007,10.1083/jcb.200701065
+000244863900010,Propagation of centromeric chromatin requires exit from mitosis,2007,10.1083/jcb.20070166
+000235329800023,Nucleoplasmic beta-actin exists in a dynamic equilibrium between low-mobility polymeric species and rapidly diffusing populations,2006,10.1083/jcb.200507101
+000234443000002,Conformation-specific antibodies reveal distinct actin structures in the nucleus and the cytoplasm,2005,10.1016/j.jsb.2005.09.003
+000339629100010,Essential and nonredundant roles for Diaphanous formins in cortical microtubule capture and directed cell migration,2014,10.1091/mbc.E13-08-0482
+000321120900010,Visualization of actin filaments and monomers in somatic cell nuclei,2013,10.1091/mbc.E12-09-0685
+000258952000046,mDia2 induces the actin scaffold for the contractile ring and stabilizes its position during cytokinesis in NIH 3T3 cells,2008,10.1091/mbc.E07-10-1086
+000220823800044,Cdc42 and mDia3 regulate microtubule attachment to kinetochores,2004,10.1038/nature02452
+000284831200010,A small GTPase molecular switch regulates epigenetic centromere maintenance by stabilizing newly incorporated CENP-A,2010,10.1038/ncb2129
+000087149900001,Spatial organization of RNA polymerase II transcription in the nucleus,2000,10.1093/nar/28.10.2019
+000318997400044,Nuclear Actin Network Assembly by Formins Regulates the SRF Coactivator MAL,2013,10.1126/science.1235038
+000339242000002,The quantitative architecture of centromeric chromatin,2014,10.7554/eLife.02137
+000341296100005,The Centromere: Chromatin Foundation for the Kinetochore Machinery,2014,10.1016/j.devcel.2014.08.016
+000376262700003,Breakdown of the reaction-diffusion master equation with nonelementary rates,2016,10.1103/PhysRevE.93.052135
+000246652300003,Stochastic simulation of chemical kinetics,2007,10.1146/annurev.physchem.58.032806.104637
+000167225400016,Macromolecular crowding: an important but neglected aspect of the intracellular environment,2001,10.1016/S0959-440X(00)00172-X
+000179517900007,Deterministic versus stochastic models for circadian rhythms,2002,10.1023/A:1021286607354
+000322950500002,A convergent reaction-diffusion master equation,2013,10.1063/1.4816377
+000249323700007,Two classes of quasi-steady-state model reductions for stochastic kinetics,2007,10.1063/1.2764480
+000229275600008,Quasiequilibrium approximation of fast reaction kinetics in stochastic biochemical systems,2005,10.1063/1.1889434
+000263134500013,Deterministic Limit of Stochastic Chemical Kinetics,2009,10.1021/jp806431b
+000356217700002,General transient solution of the one-step master equation in one dimension,2015,10.1103/PhysRevE.91.062119
+000267744200005,THE REACTION-DIFFUSION MASTER EQUATION AS AN ASYMPTOTIC APPROXIMATION OF DIFFUSION TO A SMALL TARGET,2009,10.1137/070705039
+000272190400001,Stochastic modelling of reaction-diffusion processes: algorithms for bimolecular reactions,2009,10.1088/1478-3975/6/4/046001
+000353359900018,Accuracy of the Michaelis-Menten approximation when analysing effects of molecular noise,2015,10.1098/rsif.2015.0054
+000378313200002,Analytical approximations for spatial stochastic gene expression in single cells and tissues,2016,10.1098/rsif.2015.1051
+000313112800001,The slow-scale linear noise approximation: an accurate, reduced stochastic description of biochemical networks under timescale separation conditions,2012,10.1186/1752-0509-6-39
+000376262700006,Mechanisms of information decoding in a cascade system of gene expression,2016,10.1103/PhysRevE.93.052411
+000254811400016,The combined immunodetection of AP-2 alpha and YY1 transcription factors is associated with ERBB2 gene overexpression in primary breast tumors,2008,10.1186/bcr1851
+000321695700021,Regulation of Noise in Gene Expression,2013,10.1146/annurev-biophys-083012-130401
+000246652300026,Molecular motors: A theorist's perspective,2007,10.1146/annurev.physchem.58.032806.104532
+000340943600012,Mechanism of Transcriptional Bursting in Bacteria,2014,10.1016/j.cell.2014.05.038
+000340326400024,Cellular noise and information transmission,2014,10.1016/j.copbio.2014.05.002
+000297965600011,What do expression dynamics tell us about the mechanism of transcription?,2011,10.1016/j.gde.2011.07.010
+000285229000017,Understanding the temporal codes of intra-cellular signals,2010,10.1016/j.gde.2010.09.007
+000232026800006,Distal ERBB2 promoter fragment displays specific transcriptional and nuclear binding activities in ERBB2 overexpressing breast cancer cells,2005,10.1089/dna.2005.24.582
+000166141200001,Regulatory roles of AP-2 transcription factors in vertebrate development, apoptosis and cell-cycle control,2000,10.1016/S0378-1119(00)00454-6
+000240380700022,Dual role of transcription factor FoxO1 in controlling hepatic insulin sensitivity and lipid metabolism,2006,10.1172/JCI27047
+000340588700006,Method of conditional moments (MCM) for the Chemical Master Equation,2014,10.1007/s00285-013-0711-5
+000167707900005,The mathematical theory of molecular motor movement and chemomechanical energy transduction,2000,10.1023/A:1026428320489
+000290722400040,Global quantification of mammalian gene expression control,2011,10.1038/nature10098
+000259449600036,Frequency-modulated nuclear localization bursts coordinate gene regulation,2008,10.1038/nature07292
+000254388100020,Stochastic switching as a survival strategy in fluctuating environments,2008,10.1038/ng.110
+000299046000007,Signal-dependent dynamics of transcription factor translocation controls gene expression,2012,10.1038/nsmb.2192
+000226749200017,Decorin prevents metastatic spreading of breast cancer,2005,10.1038/sj.onc.1208329
+000361837200004,From analog to digital models of gene regulation,2015,10.1088/1478-3975/12/4/045004
+000294604000008,Dynamics of intracellular information decoding,2011,10.1088/1478-3975/8/5/055007
+000266793200009,Stochastic bifurcation, slow fluctuations, and bistability as an origin of biochemical complexity,2009,10.1039/b900335p
+000345175600003,Feedback-induced counterintuitive correlations of gene expression noise with bursting kinetics,2014,10.1103/PhysRevE.90.052702
+000312702400004,How input fluctuations reshape the dynamics of a biological switching system,2012,10.1103/PhysRevE.86.061910
+000233603100060,Self-regulating gene: An exact solution,2005,10.1103/PhysRevE.72.051907
+000350218000031,Exact Distributions for Stochastic Gene Expression Models with Bursting and Feedback,2014,10.1103/PhysRevLett.113.268105
+000301343000015,Reliability of Frequency and Amplitude Decoding in Gene Regulation,2012,10.1103/PhysRevLett.108.108104
+000295328200012,Effects of Input Noise on a Simple Biochemical Switch,2011,10.1103/PhysRevLett.107.148101
+000291199000016,Connection between Noise-Induced Symmetry Breaking and an Information-Decoding Function for Intracellular Networks,2011,10.1103/PhysRevLett.106.228101
+000278477400010,Implementation of Dynamic Bayesian Decision Making by Intracellular Kinetics,2010,10.1103/PhysRevLett.104.228104
+000241405400068,Linking stochastic dynamics to population distribution: An analytical framework of gene expression,2006,10.1103/PhysRevLett.97.168302
+000248041800003,Models of stochastic gene expression,2005,10.1016/j.plrev.2005.03.003
+000335798000061,Phenotypic switching in gene regulatory networks,2014,10.1073/pnas.1400049111
+000311149900063,Energetic costs of cellular computation,2012,10.1073/pnas.1207814109
+000311147800035,Transcriptional burst frequency and burst size are equally modulated across the human genome,2012,10.1073/pnas.1213530109
+000285521800032,Bimodal gene expression in noncooperative regulatory systems,2010,10.1073/pnas.1008965107
+000260981800018,Analytical distributions for stochastic gene expression,2008,10.1073/pnas.0803850105
+000327857900036,Functional Roles of Pulsing in Genetic Circuits,2013,10.1126/science.1239999
+000313960700047,Tunable Signal Processing Through Modular Control of Transcription Factor Translocation,2013,10.1126/science.1227299
+000296052500047,Information Transduction Capacity of Noisy Biochemical Signaling Networks,2011,10.1126/science.1204553
+000252436200041,Effects of molecular memory and bursting on fluctuations in gene expression,2008,10.1126/science.1144331
+000232181900035,Noise in gene expression: Origins, consequences, and control,2005,10.1126/science.1105891
+000232181900057,Phenotypic diversity, population growth, and information in fluctuating environments,2005,10.1126/science.1114383
+000222089500048,Control of stochasticity in eukaryotic gene expression,2004,10.1126/science.1098641
+000338936400007,Memory improves precision of cell sensing in fluctuating environments,2014,10.1038/srep05688
+000318687800006,Promoter Sequence Determines the Relationship between Expression Level and Noise,2013,10.1371/journal.pbio.1001528
+000348460200009,Energy Dissipation and Noise Correlations in Biochemical Sensing,2014,10.1103/PhysRevLett.113.258102
+000374268100001,Limits on information transduction through amplitude and frequency regulation of transcription factor activity,2015,10.7554/eLife.06559
+000352064300001,Effects of promoter leakage on dynamics of gene expression,2015,10.1186/s12918-015-0157-z
+000357340100009,Accurate Encoding and Decoding by Single Cells: Amplitude Versus Frequency Modulation,2015,10.1371/journal.pcbi.1004222
+000272308900008,Strategies for cellular decision-making,2009,10.1038/msb.2009.83
+000241338000005,Stochastic mRNA synthesis in mammalian cells,2006,10.1371/journal.pbio.0040309
+000376009700001,Deterministic analysis of extrinsic and intrinsic noise in an epidemiological model,2016,10.1103/PhysRevE.93.052124
+000084935100005,On the Smolyak cubature error for analytic functions,2000,10.1023/A:1018904816230
+000223938000001,Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures,2004,10.1093/aje/kwh255
+000303147000008,A study of the accuracy of moment-closure approximations for stochastic chemical kinetics,2012,10.1063/1.3702848
+000279064100008,Solving chemical master equations by adaptive wavelet compression,2010,10.1016/j.jcp.2010.04.015
+000227040600014,Stochastic approaches to uncertainty quantification in CFD simulations,2005,10.1007/s11075-004-2866-z
+000312295800006,Influence of high-order nonlinear fluctuations in the multivariate susceptible-infectious-recovered master equation,2012,10.1103/PhysRevE.86.062103
+000178391700055,Intrinsic and extrinsic contributions to stochasticity in gene expression,2002,10.1073/pnas.162041399
+000085633200023,Noise-based switches and amplifiers for gene expression,2000,10.1073/pnas.040411297
+000277836900001,AN ADAPTIVE WAVELET METHOD FOR THE CHEMICAL MASTER EQUATION,2010,10.1137/080742324
+000179063900013,The Wiener-Askey polynomial chaos for stochastic differential equations,2002,10.1137/S1064827501387826
+000366380100009,Single-cell analysis and stochastic modelling unveil large cell-to-cell variability in influenza A virus infection,2015,10.1038/ncomms9938
+000376008500001,Intrinsic noise in systems with switching environments,2016,10.1103/PhysRevE.93.052119
+000246652300003,Stochastic simulation of chemical kinetics,2007,10.1146/annurev.physchem.58.032806.104637
+000172407800010,Stochasticity in transcriptional regulation: Origins, consequences, and mathematical representations,2001,DEC 2001
+000229263700003,Bacterial persistence: A model of survival in changing environments,2005,10.1534/genetics.2=104.035352
+000257143600002,Simulation of genetic networks modelled by piecewise deterministic Markov processes,2008,10.1049/iet-syb:20070045
+000240217400001,Dichotomous Markov noise: Exact results for out-of-equilibrium systems,2006,10.1142/S0217979206034881
+000366524700037,Dichotomous noise models of gene switches,2015,10.1063/1.4935572
+000306945000059,Steady-state fluctuations of a genetic feedback loop: An exact solution,2012,10.1063/1.4736721
+000266507400015,On competitive Lotka-Volterra model in random environments,2009,10.1016/j.jmaa.2009.03.066
+000247811100007,Stochastic population dynamics under regime switching,2007,10.1016/j.jmaa.2006.12.032
+000247573200015,Asymptotic behavior of distributions of mRNA and protein levels in a model of stochastic gene expression,2007,10.1016/j.jmaa.2006.11.043
+000347773400009,Demographic stochasticity and evolution of dispersion I. Spatially homogeneous environments,2015,10.1007/s00285-014-0776-9
+000347773400010,Demographic stochasticity and evolution of dispersion II: Spatially inhomogeneous environments,2015,10.1007/s00285-014-0756-0
+000273087200003,Autocatalytic genetic networks modeled by piecewise-deterministic Markov processes,2010,10.1007/s00285-009-0264-9
+000308648500004,Features of Fast Living: On the Weak Selection for Longevity in Degenerate Birth-Death Processes,2012,10.1007/s10955-012-0479-9
+000271543500003,Non-equilibrium Thermodynamics of Piecewise Deterministic Markov Processes,2009,10.1007/s10955-009-9850-x
+000341383000008,Fixation in finite populations evolving in fluctuating environments,2014,10.1098/rsif.2014.0663
+000282705900011,Stochastic amplification in an epidemic model with seasonal forcing,2010,10.1016/j.jtbi.2010.08.014
+000234227100005,The linear noise approximation for molecular fluctuations within cells,2004,PII S1478-3967(04)84577-7
+000352595000002,Noise-induced multistability in chemical systems: Discrete versus continuum modeling,2015,10.1103/PhysRevE.91.042111
+000306932100008,Demographic noise and piecewise deterministic Markov processes,2012,10.1103/PhysRevE.86.011137
+000293560900006,Stochastic waves in a Brusselator model with nonlocal interaction,2011,10.1103/PhysRevE.84.026201
+000293405500008,Fluctuation-driven Turing patterns,2011,10.1103/PhysRevE.84.011112
+000277265900039,Stochastic Turing patterns in the Brusselator model,2010,10.1103/PhysRevE.81.046215
+000266500700045,Limit cycles, complex Floquet multipliers, and intrinsic noise,2009,10.1103/PhysRevE.79.051131
+000260573800033,Population extinction in a time-modulated environment,2008,10.1103/PhysRevE.78.041123
+000252861400035,Persistence of instanton connections in chemical reactions with time-dependent rates,2008,10.1103/PhysRevE.77.011130
+000233603100060,Self-regulating gene: An exact solution,2005,10.1103/PhysRevE.72.051907
+000348576100024,Models of Genetic Drift as Limiting Forms of the Lotka-Volterra Competition Model,2015,10.1103/PhysRevLett.114.038101
+000350218000031,Exact Distributions for Stochastic Gene Expression Models with Bursting and Feedback,2014,10.1103/PhysRevLett.113.268105
+000328617100009,Cooperation Dilemma in Finite Populations under Fluctuating Environments,2013,10.1103/PhysRevLett.111.238101
+000322595300013,Extrinsic Noise Driven Phenotype Switching in a Self-Regulating Gene,2013,10.1103/PhysRevLett.111.058102
+000262247100084,How Colored Environmental Noise Affects Population Extinction,2008,10.1103/PhysRevLett.101.268103
+000229074300006,Experimental test of the fluctuation theorem for a driven two-level system with time-dependent rates,2005,10.1103/PhysRevLett.94.180602
+000335798000061,Phenotypic switching in gene regulatory networks,2014,10.1073/pnas.1400049111
+000280144500085,Individual histories and selection in heterogeneous populations,2010,10.1073/pnas.0912538107
+000260981800018,Analytical distributions for stochastic gene expression,2008,10.1073/pnas.0803850105
+000178391700055,Intrinsic and extrinsic contributions to stochasticity in gene expression,2002,10.1073/pnas.162041399
+000169967000074,Intrinsic noise in gene regulatory networks,2001,10.1073/pnas.151588598
+000232181900057,Phenotypic diversity, population growth, and information in fluctuating environments,2005,10.1126/science.1114383
+000259700400011,How limit cycles and quasi-cycles are related in systems with intrinsic noise,2008,10.1088/1742-5468/2008/09/P09001
+000344100800004,Two-strain competition in quasineutral stochastic disease dynamics,2014,10.1103/PhysRevE.90.042149
+000241338000005,Stochastic mRNA synthesis in mammalian cells,2006,10.1371/journal.pbio.0040309
+000337288000014,A Computational Framework for Analyzing Stochasticity in Gene Expression,2014,10.1371/journal.pcbi.1003596
+000376008000005,Effect of reaction-step-size noise on the switching dynamics of stochastic populations,2016,10.1103/PhysRevE.93.052117
+000292217600003,Decision Making in Living Cells: Lessons from a Simple System,2011,10.1146/annurev-biophys-042910-155227
+000342570300025,Genetic Diversity in Introduced Populations with an Allee Effect,2014,10.1534/genetics.114.167551
+000342570300026,Population Genetic Consequences of the Allee Effect and the Role of Offspring-Number Variation,2014,10.1534/genetics.114.167569
+000246184400001,Extinction rates for fluctuation-induced metastabilities: A real-space WKB approach,2007,10.1007/s10955-007-9312-2
+000235997600057,Stochastic protein expression in individual cells at the single molecule level,2006,10.1038/nature04599
+000317103500008,DNA looping increases the range of bistability in a stochastic model of the lac genetic switch,2013,10.1088/1478-3975/10/2/026002
+000356483700002,Colonization of a territory by a stochastic population under a strong Allee effect and a low immigration pressure,2015,10.1103/PhysRevE.91.062126
+000322084800001,Immigration-extinction dynamics of stochastic populations,2013,10.1103/PhysRevE.88.012124
+000275053700028,Extinction of metastable stochastic populations,2010,10.1103/PhysRevE.81.021116
+000265941300060,Switching rates of multistep reactions,2009,10.1103/PhysRevE.79.041149
+000241722900023,Spectral formulation and WKB approximation for rare-event statistics in reaction systems,2006,10.1103/PhysRevE.74.041115
+000225689500012,Rare event statistics in reaction-diffusion systems,2004,10.1103/PhysRevE.70.041106
+000322595300013,Extrinsic Noise Driven Phenotype Switching in a Self-Regulating Gene,2013,10.1103/PhysRevLett.111.058102
+000291609100013,Determining the Stability of Genetic Switches: Explicitly Accounting for mRNA Noise,2011,10.1103/PhysRevLett.106.248102
+000276541900006,Switching Exponent Scaling near Bifurcation Points for Non-Gaussian Noise,2010,10.1103/PhysRevLett.104.140601
+000087411600053,Random signal fluctuations can reduce random fluctuations in regulated components of chemical regulatory networks,2000,10.1103/PhysRevLett.84.5447
+000248041800003,Models of stochastic gene expression,2005,10.1016/j.plrev.2005.03.003
+000260981800018,Analytical distributions for stochastic gene expression,2008,10.1073/pnas.0803850105
+000289784900045,Mammalian Genes Are Transcribed with Widely Different Bursting Kinetics,2011,10.1126/science.1198817
+000252772000031,Languages evolve in punctuational bursts,2008,10.1126/science.1149683
+000241031200049,Large punctuational contribution of speciation to evolutionary divergence at the molecular level,2006,10.1126/science.1129647
+000236029500043,Probing gene expression in live cells, one protein molecule at a time,2006,10.1126/science.1119623
+000177447600051,Stochastic gene expression in a single cell,2002,10.1126/science.1070919
+000281744400016,Large fluctuations in stochastic population dynamics: momentum-space calculations,2010,10.1088/1742-5468/2010/07/P07018
+000288543500010,Cellular Decision Making and Biological Noise: From Microbes to Mammals,2011,10.1016/j.cell.2011.01.030
+000262240300003,Noise-driven unlimited population growth,2008,10.1103/PhysRevE.78.060103
+000241338000005,Stochastic mRNA synthesis in mammalian cells,2006,10.1371/journal.pbio.0040309
+000377711300042,Transitions in genetic toggle switches driven by dynamic disorder in rate coefficients,2016,10.1063/1.4948461
+000089056300007,Event-averaged measurements of single-molecule kinetics,2000,10.1016/S0009-2614(00)00809-5
+000339622000038,Dynamic disorder and the energetic costs of information transduction,2014,10.1063/1.4885725
+000228231200045,Chemical models of genetic toggle switches,2005,10.1021/jp045523y
+000170110500011,Two-event echos in single-molecule kinetics: A signature of conformational fluctuations,2001,10.1021/jp004349k
+000084899700060,Construction of a genetic toggle switch in Escherichia coli,2000,JAN 20 2000
+000299830500017,Identifying Dynamical Bottlenecks of Stochastic Transitions in Biochemical Networks,2012,10.1103/PhysRevLett.108.058102
+000269284300001,The large deviation approach to statistical mechanics,2009,10.1016/j.physrep.2009.05.002
+000261706600028,Extinction and resurrection in gene networks,2008,10.1073/pnas.0810366105
+000227073100023,Stretched exponential decay and correlations in the catalytic activity of fluctuating single lipase molecules,2005,10.1073/pnas.0409039102
+000185003500042,Single-molecule kinetics of lambda exonuclease reveal base dependence and dynamic disorder,2003,10.1126/science.1084387
+000375236800008,Modelling biochemical reaction systems by stochastic differential equations with reflection,2016,10.1016/j.jtbi.2016.02.010
+000274496200094,SIMULATION OF STOCHASTIC HYBRID SYSTEMS WITH SWITCHING AND REFLECTING BOUNDARIES,2008,10.1109/WSC.2008.4736143
+000261134700018,Positivity preserving chemical Langevin equations,2008,10.1016/j.chemphys.2008.08.001
+000340269200004,The complex chemical Langevin equation,2014,10.1063/1.4885345
+000315874200004,Recycling random numbers in the stochastic simulation algorithm,2013,10.1063/1.4792207
+000277241500013,Fast stochastic simulation of biochemical reaction systems by alternative formulations of the chemical Langevin equation,2010,10.1063/1.3380661
+000258976000037,Stochastic chemical kinetics and the total quasi-steady-state assumption: Application to the stochastic simulation algorithm and chemical master equation,2008,10.1063/1.2971036
+000297081700011,Physically consistent simulation of mesoscale chemical kinetics: The non-negative FIS-alpha method,2011,10.1016/j.jcp.2011.07.032
+000281628800009,STOCHASTIC MODELING OF NAIVE T CELL HOMEOSTASIS FOR COMPETING CLONOTYPES VIA THE MASTER EQUATION,2010,10.1137/09077182X
+000249318500004,Analysis of explicit tau-leaping schemes for simulating chemically reacting systems,2007,10.1137/06066792X
+000314308600009,Channel-based Langevin approach for the stochastic Hodgkin-Huxley neuron,2013,10.1103/PhysRevE.87.012716
+000304064700004,Modeling ion channel dynamics through reflected stochastic differential equations,2012,10.1103/PhysRevE.85.051907
+000346842100022,COMPLEXITY OF MULTILEVEL MONTE CARLO TAU-LEAPING,2014,10.1137/130940761
+000237606500005,Stochastic models describing human metabolic processes using SDEs with reflection,2006,10.1080/15326340600649037
+000169858200006,Euler's approximations of solutions of SDEs with reflecting boundary,2001,10.1016/S0304-4149(01)00087-4
+000338581800001,Efficient simulation of stochastic chemical kinetics with the Stochastic Bulirsch-Stoer extrapolation method,2014,10.1186/1752-0509-8-71
+000378313200012,Apoptosis in snowflake yeast: novel trait, or side effect of toxic waste?,2016,10.1098/rsif.2016.0121
+000171732600008,Quorum sensing in bacteria,2001,10.1146/annurev.micro.55.1.165
+000320682800028,Group Formation, Relatedness, and the Evolution of Multicellularity,2013,10.1016/j.cub.2013.05.004
+000262515800018,Metabolic diversification of cells during the development of yeast colonies,2009,10.1111/j.1462-2920.2008.01789.x
+000229900700004,ACE2, CBK1, and BUD4 in budding and cell separation,2005,10.1128/EC.4.6.1018-1028.2005
+000189077200016,Chronological aging leads to apoptosis in yeast,2004,10.1083/jcb.200310014
+000247428200016,On the role of physics in the growth and pattern formation of multi-cellular systems: What can we learn from individual-cell based models?,2007,10.1007/s10955-007-9289-x
+000345500000014,Emergence of multicellularity in a model of cell growth, death and aggregation under size-dependent selection,2015,10.1098/rsif.2014.0982
+000236340700015,Life-history evolution and the origin of multicellularity,2006,10.1016/j.jtbi.2005.08.043
+000304518900008,Cell Differentiation within a Yeast Colony: Metabolic and Regulatory Parallels with a Tumor-Affected Organism,2012,10.1016/j.molcel.2012.04.001
+000167644400006,Aged mother cells of Saccharomyces cerevisiae show markers of oxidative stress and apoptosis,2001,10.1046/j.1365-2958.2001.02317.x
+000344187500031,Life cycles, fitness decoupling and the evolution of multicellularity,2014,10.1038/nature13884
+000220254100014,Coupling cell movement to multicellular development in myxobacteria,2003,10.1038/nrmicro733
+000299731400053,Experimental evolution of multicellularity,2012,10.1073/pnas.1115323109
+000171237100114,Fruiting body formation by Bacillus subtilis,2001,10.1073/pnas.191384198
+000319863500002,A conceptual framework for the evolutionary origins of multicellularity,2013,10.1088/1478-3975/10/3/035001
+000343011700009,Geometry Shapes Evolution of Early Multicellularity,2014,10.1371/journal.pcbi.1003803
+000256462600010,Dynamical patterning modules: physico-genetic determinants of morphological development and evolution,2008,10.1088/1478-3975/5/1/015008
+000326550800012,Genome duplication and mutations in ACE2 cause multicellular, fast-sedimenting phenotypes in evolved Saccharomyces cerevisiae,2013,10.1073/pnas.1305949110
+000348828900005,Origins of multicellular evolvability in snowflake yeast,2015,10.1038/ncomms7102
+000378313200002,Analytical approximations for spatial stochastic gene expression in single cells and tissues,2016,10.1098/rsif.2015.1051
+000246652300003,Stochastic simulation of chemical kinetics,2007,10.1146/annurev.physchem.58.032806.104637
+000260130400012,Nature, Nurture, or Chance: Stochastic Gene Expression and Its Consequences,2008,10.1016/j.cell.2008.09.050
+000361772400076,On speeding up stochastic simulations by parallelization of random number generation,2015,10.1016/j.ces.2015.06.066
+000167225400016,Macromolecular crowding: an important but neglected aspect of the intracellular environment,2001,10.1016/S0959-440X(00)00172-X
+000186357000014,Fast evaluation of fluctuations in biochemical networks with the linear noise approximation,2003,10.1101/gr.1196503
+000286456800008,Legitimacy of the stochastic Michaelis-Menten approximation,2011,10.1049/iet-syb.2009.0057
+000346322200039,New "Tau-Leap" Strategy for Accelerated Stochastic Simulation,2014,10.1021/ie502929q
+000334638500036,Organization of Ribosomes and Nucleoids in Escherichia coli Cells during Growth and in Quiescence,2014,10.1074/jbc.M114.557348
+000306945000059,Steady-state fluctuations of a genetic feedback loop: An exact solution,2012,10.1063/1.4736721
+000264187700001,A chance at survival: gene expression noise and phenotypic diversification strategies,2009,10.1111/j.1365-2958.2009.06605.x
+000182111400047,Noise in eukaryotic gene expression,2003,10.1038/nature01546
+000254388100020,Stochastic switching as a survival strategy in fluctuating environments,2008,10.1038/ng.110
+000175362500017,Regulation of noise in the expression of a single gene,2002,10.1038/ng869
+000260852600002,Numerical solution of large-scale Lyapunov equations, Riccati equations, and linear-quadratic optimal control problems,2008,10.1002/nla.622
+000232136300001,Stochastic simulation of chemical reactions with spatial resolution and single molecule detail,2004,PII S1478-3967(04)83249-2
+000274408100023,Spatio-temporal correlations can drastically change the response of a MAPK pathway,2010,10.1073/pnas.0906885107
+000260981800018,Analytical distributions for stochastic gene expression,2008,10.1073/pnas.0803850105
+000252436200041,Effects of molecular memory and bursting on fluctuations in gene expression,2008,10.1126/science.1144331
+000222089500048,Control of stochasticity in eukaryotic gene expression,2004,10.1126/science.1098641
+000177447600051,Stochastic gene expression in a single cell,2002,10.1126/science.1070919
+000267744200005,THE REACTION-DIFFUSION MASTER EQUATION AS AN ASYMPTOTIC APPROXIMATION OF DIFFUSION TO A SMALL TARGET,2009,10.1137/070705039
+000371618800004,Molecular finite-size effects in stochastic models of equilibrium chemical systems,2016,10.1063/1.4941583
+000272190400001,Stochastic modelling of reaction-diffusion processes: algorithms for bimolecular reactions,2009,10.1088/1478-3975/6/4/046001
+000280596900057,An effective rate equation approach to reaction kinetics in small volumes: Theory and application to biochemical reactions in nonequilibrium steady-state conditions,2010,10.1063/1.3454685
+000362902300002,Linear-noise approximation and the chemical master equation agree up to second-order moments for a class of chemical systems,2015,10.1103/PhysRevE.92.042124
+000266501600055,Noise-Induced Breakdown of the Michaelis-Menten Equation in Steady-State Conditions,2009,10.1103/PhysRevLett.102.218103
+000303455200016,Discreteness-induced concentration inversion in mesoscopic chemical systems,2012,10.1038/ncomms1775
+000341987600007,Validity conditions for moment closure approximations in stochastic chemical kinetics,2014,10.1063/1.4892838
+000297472800003,Communication: Limitations of the stochastic quasi-steady-state approximation in open biochemical reaction networks,2011,10.1063/1.3661156
+000357863100004,Approximate probability distributions of the master equation,2015,10.1103/PhysRevE.92.012120
+000305340000028,intrinsic Noise Analyzer: A Software Package for the Exploration of Stochastic Biochemical Kinetics Using the System Size Expansion,2012,10.1371/journal.pone.0038518
+000323097900006,Effects of bursty protein production on the noisy oscillatory properties of downstream pathways,2013,10.1038/srep02438
+000377769300029,Potential Impact of Sexual Transmission on Ebola Virus Epidemiology: Sierra Leone as a Case Study,2016,10.1371/journal.pntd.0004676
+000365803400008,Rapid drop in the reproduction number during the Ebola outbreak in the Democratic Republic of Congo,2015,10.7717/peerj.1418
+000372774200018,PSychosocial effects of an Ebola outbreak at individual, community and international levels,2016,10.2471/BLT.15.158543
+000356618200010,Ebola Virus Epidemiology, Transmission, and Evolution during Seven Months in Sierra Leone,2015,10.1016/j.cell.2015.06.007
+000351434900012,Ebola virus as a sexually transmitted infection,2015,10.1097/QCO.0000000000000135
+000358458300016,Estimates of Outbreak Risk from New Introductions of Ebola with Immediate and Delayed Transmission Control,2015,10.3201/eid2108.150170
+000348491400030,Potential Sexual Transmission of Zika Virus,2015,10.3201/eid2102.141363
+000290291900020,Probable Non-Vector-borne Transmission of Zika Virus, Colorado, USA,2011,10.3201/eid1705.101939
+000354403100010,Ebola virus disease outbreak in Nigeria: Transmission dynamics and rapid control,2015,10.1016/j.epidem.2015.03.001
+000365965700005,Duration of Ebola virus RNA persistence in semen of survivors: population-level estimates and projections,2015,10.2807/1560-7917.ES.2015.20.48.30083
+000333947400015,Potential Sexual Transmission of Crimean-Congo Hemorrhagic Fever Infection,2014,MAR 2014
+000251090400005,Assessment of the risk of Ebola virus transmission from bodily fluids and fomites,2007,10.1086/520545
+000251090400003,Forty years of Marburg virus,2007,10.1086/520551
+000228128800005,Rates of HIV-1 transmission per coital act, by stage of HIV-1 infection, in Rakai, Uganda,2005,10.1086/429411
+000222192000011,The basic reproductive number of Ebola and the effects of public health measures: the cases of Congo and Uganda,2004,10.1016/j.jtbi.2004.03.006
+000188243900038,Possible cases of sexual and congenital transmission of sleeping sickness,2004,10.1016/S0140-6736(03)15345-7
+000168192100008,Probability of HIV-1 transmission per coital act in monogamous, heterosexual, HIV-1-discordant couples in Rakai, Uganda,2001,10.1016/S0140-6736(00)04331-2
+000087779000013,Human asymptomatic Ebola infection and strong inflammatory response,2000,10.1016/S0140-6736(00)02405-3
+000353670600017,Ebola: the real lessons from HIV scale-up,2015,MAY 2015
+000181512400001,A qualitative analysis of a model for the transmission of varicella-zoster virus,2003,10.1016/S0025-5564(02)00219-5
+000169135200002,Viruses in the mammalian male genital tract and their effects on the reproductive system,2001,10.1128/MMBR.65.2.208-231.2001
+000359002300038,Genetic diversity and evolutionary dynamics of Ebola virus in Sierra Leone,2015,AUG 6 2015
+000254084100010,Rates of evolutionary change in viruses: patterns and determinants,2008,10.1038/nrg2323
+000356354600008,Persistence of Ebola Virus in Ocular Fluid during Convalescence,2015,10.1056/NEJMoa1500306
+000168512700015,Destabilization of epidemic models with the inclusion of realistic distributions of infectious periods,2001,10.1098/rspb.2001.1599
+000341483800071,Genomic surveillance elucidates Ebola virus origin and transmission during the 2014 outbreak,2014,10.1126/science.1259657
+000174275900004,An introduction to mathematical models in sexually transmitted disease epidemiology,2002,10.1136/sti.78.1.7
+000171555800004,Realistic distributions of infectious periods in epidemic models: Changing patterns of persistence and dynamics,2001,10.1006/tpbi.2001.1525
+000343899600015,Ebola control: effect of asymptomatic infection and acquired immunity,2014,10.1016/S0140-6736(14)61839-0
+000372567300043,Modeling Relapsing Disease Dynamics in a Host-Vector Community,2016,10.1371/journal.pntd.0004428
+000331706700033,The Distribution of Sex Acts and Condom Use within Partnerships in a Rural Sub-Saharan African Population,2014,10.1371/journal.pone.0088378
+000377311800011,A likelihood ratio anomaly detector for identifying within-perimeter computer network attacks,2016,10.1016/j.jnca.2016.03.008
+000341741500001,How to reconstruct end-to-end traffic based on time-frequency analysis and artificial neural network,2014,10.1016/j.aeue.2014.04.011
+000361889500006,A novel hybrid prediction algorithm to network traffic,2015,10.1007/s12243-015-0465-8
+000295435500022,Joint time-frequency sparse estimation of large-scale network traffic,2011,10.1016/j.comnet.2011.06.027
+000328487400008,Estimating Functions of Distributions Defined over Spaces of Unknown Size,2013,10.3390/e15114668
+000245601900083,Pattern mining in frequent dynamic subgraphs,2006,IEEE International Conference on Data Mining
+000235083000001,Change-point monitoring for the detection of DoS attacks,2004,OCT-DEC 2004
+000334002900026,A transform domain-based anomaly detection approach to network-wide traffic,2014,10.1016/j.jnca.2013.09.014
+000287456100021,Outside the Closed World: On Using Machine Learning For Network Intrusion Detection,2010,IEEE Symposium on Security and Privacy
+000169358400011,Information-theoretic measures for anomaly detection,2001,PROCEEDINGS: IEEE SYMPOSIUM ON SECURITY AND PRIVACY
+000327394500004,Scan Statistics for the Online Detection of Locally Anomalous Subgraphs,2013,10.1080/00401706.2013.822830
+000351207600002,Multi-scale anomaly detection for high-speed network traffic,2015,10.1002/ett.2619
+000328702000013,Differentiating User Authentication Graphs,2013,10.1109/SPW.2013.38
+000269059300157,Detecting New P2P Botnet with Multi-chart CUSUM,2009,10.1109/NSWCTC.2009.107
+000268468500002,Anomaly Detection: A Survey,2009,10.1145/1541880.1541882
+000262802600003,Anomaly-based network intrusion detection: Techniques, systems and challenges,2009,10.1016/j.cose.2008.08.003
+href="javascrip,Intrusion detection with neural networks,1998,ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS
+000376399300005,Automatic Moment-Closure Approximation of Spatially Distributed Collective Adaptive Systems,2016,10.1145/2883608
+000354789200006,Model Reconstruction for Moment-Based Stochastic Chemical Kinetics,2015,10.1145/2699712
+000242276500008,Computing the moments of high dimensional solutions of the master equation,2006,10.1016/j.amc.2005.12.032
+000239961000005,Moment equations and dynamics of a household SIS epidemiological model,2006,10.1007/s11538-006-9080-1
+000229528800010,Novel moment closure approximations in stochastic epidemics,2005,10.1016/j.bulm.2004.11.002
+000252251604002,Lognormal moment closures for biochemical reactions,2006,IEEE Conference on Decision and Control
+000299472600014,Scalable Differential Analysis of Process Algebra Models,2012,10.1109/TSE.2010.82
+000223234200036,Maximum entropy formulation of the Kirkwood superposition approximation,2004,10.1063/1.1776552
+000088125100009,Multiplicative moments and measures of persistence in ecology,2000,10.1006/jtbi.2000.2066
+000303081100003,Markovian agent modeling swarm intelligence algorithms in wireless sensor networks,2012,10.1016/j.peva.2010.11.007
+000278243400007,A fluid analysis framework for a Markovian process algebra,2010,10.1016/j.tcs.2010.02.001
+000253339400002,On process rate semantics,2008,10.1016/j.tcs.2007.11.012
+000286404900009,A Markovian Agent Model for Fire Propagation in Outdoor Environments,2010,Lecture Notes in Computer Science
+000346247900022,PALOMA: A Process Algebra for Located Markovian Agents,2014,Lecture Notes in Computer Science
+000306503900008,Higher Moment Analysis of a Spatial Stochastic Process Algebra,2011,Lecture Notes in Computer Science
+000255117800078,Who's talking first? Consensus or lack thereof in coevolving opinion formation models,2008,10.1103/PhysRevLett.100.158701
+000272835100029,Heterogeneous pair approximation for voter models on networks,2009,10.1209/0295-5075/88/58004
+000237321500059,Maximum-entropy closures for kinetic theories of neuronal network dynamics,2006,10.1103/PhysRevLett.96.178101
+000292190200008,Maximum-entropy moment-closure for stochastic systems on networks,2011,10.1088/1742-5468/2011/05/P05007
+000376529600028,Generalized theory on the mechanism of site-specific DNA-protein interactions,2016,10.1088/1742-5468/2016/05/053501
+000247773000019,Conformational dynamics and ensembles in protein folding,2007,10.1146/annurev.biophys.36.040306.132608
+000246652300003,Stochastic simulation of chemical kinetics,2007,10.1146/annurev.physchem.58.032806.104637
+000323193700003,Asymmetric DNA-Search Dynamics by Symmetric Dimeric Proteins,2013,10.1021/bi400357m
+000236316300008,Critical jump sizes in DNA-protein interactions,2006,10.1016/j.bpc.2005.10.014
+000318754300025,Obstacles May Facilitate and Direct DNA Search by Proteins,2013,10.1016/j.bpj.2013.03.030
+000304091100011,Generalized Facilitated Diffusion Model for DNA-Binding Proteins with Search and Recognition States,2012,10.1016/j.bpj.2012.04.008
+000294103600015,Theoretical and Computational Modeling of Target-Site Search Kinetics In Vitro and In Vivo,2011,10.1016/j.bpj.2011.06.066
+000292571700019,DNA Sequence Correlations Shape Nonspecific Transcription Factor-DNA Binding Affinity,2011,10.1016/j.bpj.2011.04.037
+000280182300006,Theory of Site-Specific DNA-Protein Interactions in the Presence of Conformational Fluctuations of DNA Binding Domains,2010,10.1016/j.bpj.2010.04.026
+000230822200015,Target search of N sliding proteins on a DNA,2005,10.1529/biophysj.104.057612
+000225426700037,Kinetics of protein-DNA interaction: Facilitated target location in sequence-dependent potential,2004,10.1529/biophysj.104.050765
+href="javascrip,Protein-DNA interactions: fine balance between high affinity and fast kinetics,2015,10.1080/07391102.2015.1032555
+000302216200072,How to accelerate protein search on DNA: Location and dissociation,2012,10.1063/1.3697763
+000361921400006,Dynamics of the Protein Search for Targets on DNA in the Presence of Traps,2015,10.1021/acs.jpcb.5b07303
+000326259800004,Speed-Selectivity Paradox in the Protein Search for Targets on DNA: Is It Real or Not?,2013,10.1021/jp311466f
+000326259800035,Weak Frustration Regulates Sliding and Binding Kinetics on Rugged Protein-DNA Landscapes,2013,10.1021/jp402296d
+000254883500038,Protein-DNA interactions: Reaching and recognizing the targets,2008,10.1021/jp076432e
+000237533600001,Mean first passage time calculation for a one-dimensional random walk with random absorbing boundary,2006,10.1088/0305-4470/39/13/L01
+000235953900006,Mean first passage time calculation for the random walk with random step size,2006,10.1088/0305-4470/39/7/004
+000298145700002,Theory on thermodynamic coupling of site-specific DNA-protein interactions with fluctuations in DNA-binding domains,2011,10.1088/1751-8113/44/50/505002
+000277028800006,Theory of site-specific interactions of the combinatorial transcription factors with DNA,2010,10.1088/1751-8113/43/19/195003
+000250302600010,Action at distance along the DNA: A random jump model on enhancer action,2007,10.1016/j.jtbi.2007.06.003
+000297561600005,Intrinsically disordered regions as affinity tuners in protein-DNA interactions,2012,10.1039/c1mb05273j
+000182699600052,Folding at the speed limit,2003,10.1038/nature01609
+000334510100020,Direct measurement of transcription factor dissociation excludes a simple operator occupancy model for gene regulation,2014,10.1038/ng.2905
+000265264500021,Effects of macromolecular crowding and DNA looping on gene regulation kinetics,2009,10.1038/NPHYS1222
+000354722500012,What matters for lac repressor search in vivo-sliding, hopping, intersegment transfer, crowding on DNA or recognition?,2015,10.1093/nar/gkv207
+000331138100011,Quantitative influence of macromolecular crowding on gene regulation kinetics,2014,10.1093/nar/gkt907
+000257578600024,Sliding and jumping of single EcoRV restriction enzymes on non-cognate DNA,2008,10.1093/nar/gkn376
+000257188700006,Spatial effects on the speed and reliability of protein-DNA search,2008,10.1093/nar/gkn173
+000181079700090,TRANSFAC (R): transcriptional regulation, from patterns to profiles,2003,10.1093/nar/gkg108
+000286628200018,Physics of protein-DNA interactions: mechanisms of facilitated target search,2011,10.1039/c0cp01966f
+000290154900009,Theory on the dynamic memory in the transcription-factor-mediated transcription activation,2011,10.1103/PhysRevE.83.041926
+000265941300107,Directional dependent dynamics of protein molecules on DNA,2009,10.1103/PhysRevE.79.041913
+000237951300070,Effect of external fluctuations on the affinity-specificity negative correlation in DNA-probe interactions,2006,10.1103/PhysRevE.73.051915
+000322735100012,Distance Matters: The Impact of Gene Proximity in Bacterial Gene Regulation,2013,10.1103/PhysRevLett.110.198101
+000239377500066,Single molecule measurements of repressor protein 1D diffusion on DNA,2006,10.1103/PhysRevLett.97.048302
+000234337900013,Optimal target search on a fast-folding polymer chain with volume exchange,2005,10.1103/PhysRevLett.95.260603
+000339890900016,Regulation of the Nucleosome Repeat Length In Vivo by the DNA Sequence, Protein Concentrations and Long-Range Interactions,2014,10.1371/journal.pcbi.1003698
+000327744900041,Transcription-factor binding and sliding on DNA studied using micro- and macroscopic models,2013,10.1073/pnas.1307905110
+000296373400024,Frustration in protein-DNA binding influences conformational switching and target search kinetics,2011,10.1073/pnas.1109594108
+000290908000031,Rapid search for specific sites on DNA through conformational switch of nonspecifically bound proteins,2011,10.1073/pnas.1101555108
+000286097700028,A single-molecule characterization of p53 search on DNA,2011,10.1073/pnas.1016020107
+000266209000023,Facilitated diffusion with DNA coiling,2009,10.1073/pnas.0903293106
+000260240900020,How DNA coiling enhances target localization by proteins,2008,10.1073/pnas.0804248105
+000249187500019,How gene order is influenced by the biophysics of transcription regulation,2007,10.1073/pnas.0700672104
+000246724300043,Probing transcription factor dynamics at the single-molecule level in a living cell,2007,10.1126/science.1141967
+000222662400035,Structure and flexibility adaptation in nonspecific and specific protein-DNA complexes,2004,10.1126/science.1097064
+000313872800019,In Vivo Facilitated Diffusion Model,2013,10.1371/journal.pone.0053956
+000360048700001,Real sequence effects on the search dynamics of transcription factors on DNA (vol 5, 10072, 2015),2015,10.1038/srep13045
+000357570500001,Real sequence effects on the search dynamics of transcription factors on DNA,2015,10.1038/srep10072
+000264905400003,An end to 40 years of mistakes in DNA-protein association kinetics?,2009,10.1042/BST0370343
+000267698700085,Packaging effects on site-specific DNA-protein interactions,2009,10.1103/PhysRevE.79.061920
+000248548900093,Generalized theory of site-specific DNA-protein interactions,2007,10.1103/PhysRevE.76.011901
+000188946500055,DNA-protein interactions under random jump conditions,2004,10.1103/PhysRevE.69.011911
+000365883200002,Variance-corrected Michaelis-Menten equation predicts transient rates of single-enzyme reactions and response times in bacterial gene-regulation,2015,10.1038/srep17820
+000346656700036,Sliding of Proteins Non-specifically Bound to DNA: Brownian Dynamics Studies with Coarse-Grained Protein and DNA Models,2014,10.1371/journal.pcbi.1003990
+000374686900014,Importance of anisotropy in detachment rates for force production and cargo transport by a team of motor proteins,2016,10.1002/pro.2905
+000327285100001,Interplay between Velocity and Travel Distance of Kinesin-based Transport in the Presence of Tau,2013,10.1016/j.bpj.2013.10.006
+000307427700014,Measuring Molecular Motor Forces In Vivo: Implications for Tug-of-War Models of Bidirectional Transport,2012,10.1016/j.bpj.2012.06.038
+000276738400020,LIS1 and NudE Induce a Persistent Dynein Force-Producing State,2010,10.1016/j.cell.2010.02.035
+000251800900017,Force-induced bidirectional stepping of cytoplasmic dynein,2007,10.1016/j.cell.2007.10.016
+000239552600019,Single-molecule analysis of dynein processivity and stepping behavior,2006,10.1016/j.cell.2006.05.046
+000258849300022,Stepping, strain gating, and an unexpected force-velocity curve for multiple-motor-based transport,2008,10.1016/j.cub.2008.07.027
+000247409000020,Cargo transport: Two motors are sometimes better than one,2007,10.1016/j.cub.2007.04.025
+000284831200015,A cytoplasmic dynein tail mutation impairs motor processivity,2010,10.1038/ncb2127
+000241718300008,Molecular motors as cargo transporters in the cell - The good, the bad and the ugly,2006,10.1016/j.physa.2006.05.017
+000275496400014,Robust transport by multiple motors with nonlinear force-velocity relations and stochastic load sharing,2010,10.1088/1478-3975/7/1/016012
+000354729500053,Cytoplasmic dynein regulates its attachment to microtubules via nucleotide state-switched mechanosensing at multiple AAA domains,2015,10.1073/pnas.1417422112
+000297249800027,Mechanical stochastic tug-of-war models cannot explain bidirectional lipid-droplet transport,2011,10.1073/pnas.1107841108
+000364596700004,Microtubule C-Terminal Tails Can Change Characteristics of Motor Force Production,2015,10.1111/tra.12307
+000327000800009,Teamwork in microtubule motors,2013,10.1016/j.tcb.2013.06.003
+000374970200006,A skeleton model for the MJO with refined vertical structure,2016,10.1007/s00382-015-2731-x
+000272841900010,A STOCHASTIC MULTICLOUD MODEL FOR TROPICAL CONVECTION,2010,MAR 2010
+000242272200002,The mesoscale convection life cycle: Building block or prototype for large-scale tropical waves?,2006,10.1016/j.dynatmoce.2006.03.003
+000242272200008,Modulating synoptic scale convective activity and boundary layer dissipation in the IPESD models of the Madden-Julian oscillation,2006,10.1016/j.dynatmoce.2005.10.005
+000221609600005,The development of organized convection associated with the MJO during TOGA COARE IOP: Trimodal characteristics,2004,10.1029/2004GL019601
+000353840100013,Precursor Environmental Conditions Associated with the Termination of Madden-Julian Oscillation Events,2015,10.1175/JAS-D-14-0254.1
+000335491400015,A Stochastic Skeleton Model for the MJO,2014,10.1175/JAS-D-13-0186.1
+000300960700020,Using the Stochastic Multicloud Model to Improve Tropical Convective Parameterization: A Paradigm Example,2012,10.1175/JAS-D-11-0148.1
+000298205400016,Nonlinear Dynamics and Regional Variations in the MJO Skeleton,2011,10.1175/JAS-D-11-053.1
+000288144300005,The MJO and Convectively Coupled Waves in a Coarse-Resolution GCM with a Simple Multicloud Parameterization,2011,10.1175/2010JAS3443.1
+000269814400016,Convection in a Parameterized and Superparameterized Model and Its Role in the Representation of the MJO,2009,10.1175/2009JAS3097.1
+000263936600009,A Simple Dynamical Model with Features of Convective Momentum Transport,2009,10.1175/2008JAS2805.1
+000254356600010,Multicloud models for organized tropical convection: Enhanced congestus heating,2008,10.1175/2007JAS2408.1
+000248335400010,Observed characteristics of the MJO relative to maximum rainfall,2007,10.1175/JAS3968.1
+000244276600007,A simple multicloud parameterization for convectively coupled tropical waves. Part II: Nonlinear simulations,2007,10.1175/JAS3833.1
+000241554500003,Vertical moist thermodynamic structure and spatial-temporal evolution of the MJO in AIRS observations,2006,10.1175/JAS3782.1
+000237197300011,A simple multicloud parameterization for convectively coupled tropical waves. Part I: Linear analysis,2006,10.1175/JAS3677.1
+000231672300009,Zonal and vertical structure of the Madden-Julian oscillation,2005,10.1175/JAS3520.1
+000229933700003,A new multiscale model for the Madden-Julian oscillation,2005,10.1175/JAS3455.1
+000086314500001,Large-scale dynamical fields associated with convectively coupled equatorial waves,2000,10.1175/1520-0469(2000)057&lt;0613:LSDFAW&gt;2.0.CO;2
+000347916700021,Identifying the Skeleton of the Madden-Julian Oscillation in Observational Data,2015,10.1175/MWR-D-14-00169.1
+000266432700005,The skeleton of tropical intraseasonal oscillations,2009,10.1073/pnas.0903367106
+000247363000003,Madden-Julian Oscillation analog and intraseasonal variability in a multicloud model above the equator,2007,10.1073/pnas.070357210d
+000220761200005,A multiscale model for tropical intraseasonal oscillations,2004,10.1073/pnas.0401034101
+000363865700016,The MJO skeleton model with observation-based background state and forcing,2015,10.1002/qj.2552
+000259292500011,Primary and successive events in the Madden-Julian Oscillation,2008,10.1002/qj.224
+000230483900001,Madden-Julian oscillation,2005,10.1029/2004RG000158
+000319276600017,Convectively coupled wave-environment interactions,2013,10.1007/s00162-012-0268-8
+000260380800001,Nonlinear dynamics of hydrostatic internal gravity waves,2008,10.1007/s00162-008-0080-7
+000374377200010,Transcription factor levels enable metabolic diversification of single cells of environmental bacteria,2016,10.1038/ismej.2015.193
+000250951900003,A pathway and genetic factors contributing to elevated gene expression noise in stationary phase,2007,10.1529/biophysj.107.118687
+000260130400012,Nature, Nurture, or Chance: Stochastic Gene Expression and Its Consequences,2008,10.1016/j.cell.2008.09.050
+000294526200014,Bacterial growth laws and their applications,2011,10.1016/j.copbio.2011.04.014
+000171645900002,Vectors to express foreign genes and techniques to monitor gene expression in Pseudomonads,2001,10.1016/S0958-1669(00)00242-1
+000360510900011,Microbial bet-hedging: the power of being different,2015,10.1016/j.mib.2015.04.008
+000349152800010,The Crc and Hfq proteins of Pseudomonas putida cooperate in catabolite repression and formation of ribonucleic acid complexes with specific target motifs,2015,10.1111/1462-2920.12499
+000284961700010,The global regulator Crc modulates metabolism, susceptibility to antibiotics and virulence in Pseudomonas aeruginosa,2010,10.1111/j.1462-2920.2010.02292.x
+000353842000001,Phenotypic heterogeneity in metabolic traits among single cells of a rare bacterial species in its natural environment quantified with a combination of flow cell sorting and NanoSIMS,2015,10.3389/fmicb.2015.00243
+000316726400003,Microbial individuality in the natural environment,2013,10.1038/ismej.2012.131
+000316723300001,Decoding the genetic networks of environmental bacteria: regulatory moonlighting of the TOL system of Pseudomonas putida mt-2,2013,10.1038/ismej.2012.98
+000229547500010,Levels and activity of the Pseudomonas putida global regulatory protein crc vary according to growth conditions,2005,10.1128/JB.187.11.3678-3686.2005
+000170958900014,Monitoring intracellular levels of XylR in Pseudomonas putida with a single-chain antibody specific for aromatic- responsive enhancer-binding proteins,2001,10.1128/JB.183.19.5571-5579.2001
+000280542100013,The Crc Global Regulator Inhibits the Pseudomonas putida pWW0 Toluene/Xylene Assimilation Pathway by Repressing the Translation of Regulatory and Structural Genes,2010,10.1074/jbc.M110.126615
+000173421300076,In vivo UV laser footprinting of the Pseudomonas putida sigma(54) Pu promoter reveals that integration host factor couples transcriptional activity to growth phase,2002,10.1074/jbc.M108162200
+000207904500006,Tracing explosives in soil with transcriptional regulators of Pseudomonas putida evolved for responding to nitrotoluenes,2008,10.1111/j.1751-7915.2008.00027.x
+000303776200012,Positive regulatory dynamics by a small noncoding RNA: speeding up responses under temperature stress,2012,10.1039/c2mb05479e
+000295844100005,A composite feed-forward loop I4-FFL involving IHF and Crc stabilizes expression of the XylR regulator of Pseudomonas putida mt-2 from growth phase perturbations,2011,10.1039/c1mb05264k
+000243253200007,Phenotypic consequences of promoter-mediated transcriptional noise,2006,10.1016/j.molcel.2006.11.003
+000309063600017,Stochasticity of TOL plasmid catabolic promoters sets a bimodal expression regime in Pseudomonas putida mt-2 exposed to m-xylene,2012,10.1111/j.1365-2958.2012.08184.x
+000228179100005,Bistability in the Bacillus subtilis K-state (competence) system requires a positive feedback loop,2005,10.1111/j.1365-2958.2005.04592.x
+000238254100035,Single-cell proteomic analysis of S-cerevisiae reveals the architecture of biological noise,2006,10.1038/nature04785
+000236176100059,An excitable gene regulatory circuit induces transient cellular differentiation,2006,10.1038/nature04588
+000235333600053,Origins of extrinsic variability in eukaryotic gene expression,2006,10.1038/nature04281
+000229021100046,Enhancement of cellular memory by reducing stochastic transitions,2005,10.1038/nature03524
+000189026000044,Multistability in the lactose utilization network of Escherichia coli,2004,10.1038/nature02298
+000270915000014,Emergent bistability by a growth-modulating positive feedback circuit,2009,10.1038/nchembio.218
+000291017000012,General properties of transcriptional time series in Escherichia coli,2011,10.1038/ng.821
+000254388100020,Stochastic switching as a survival strategy in fluctuating environments,2008,10.1038/ng.110
+000229424300015,A Tn7-based broad-range bacterial cloning and expression system,2005,10.1038/NMETH765
+000251002200024,Mini-Tn7 insertion in bacteria with single attTn7 sites: example Pseudomonas aeruginosa,2006,10.1038/nprot.2006.24
+000229490100011,Stochasticity in gene expression: From theories to phenotypes,2005,10.1038/nrg1615
+000358000700008,A functional perspective on phenotypic heterogeneity in microorganisms,2015,10.1038/nrmicro3491
+000186802500030,Transient XylR binding to the UAS of the Pseudomonas putida sigma(54) promoter Pu revealed with high intensity UV footprinting in vivo,2003,10.1093/nar/gkg912
+000285521800032,Bimodal gene expression in noncooperative regulatory systems,2010,10.1073/pnas.1008965107
+000264790600032,Negative autoregulation linearizes the dose-response and suppresses the heterogeneity of gene expression,2009,10.1073/pnas.0809901106
+000254263300058,Bet-hedging and epigenetic inheritance in bacterial cell development,2008,10.1073/pnas.0700463105
+000177042400020,Global analysis of mRNA decay and abundance in Escherichia coli at single-gene resolution using two-color fluorescent DNA microarrays,2002,10.1073/pnas.112318199
+000267414500001,The Pseudomonas putida Crc global regulator controls the hierarchical assimilation of amino acids in a complete medium: Evidence from proteomic and genomic analyses,2009,10.1002/pmic.200800918
+000322884800043,Positive Feedback Between PU.1 and the Cell Cycle Controls Myeloid Differentiation,2013,10.1126/science.1240831
+000284374700042,Interdependence of Cell Growth and Gene Expression: Origins and Consequences,2010,10.1126/science.1192588
+000280483500027,Quantifying E-coli Proteome and Transcriptome with Single-Molecule Sensitivity in Single Cells,2010,10.1126/science.1188308
+000276952400044,Cooperation Between Translating Ribosomes and RNA Polymerase in Transcription Elongation,2010,10.1126/science.1184939
+000274901100040,Noise Can Induce Bimodality in Positive Transcriptional Feedback Loops Without Bistability,2010,10.1126/science.1178962
+000248339800049,Noise in gene expression determines cell fate in Bacillus subtilis,2007,10.1126/science.1140818
+000232181900035,Noise in gene expression: Origins, consequences, and control,2005,10.1126/science.1105891
+000232181900057,Phenotypic diversity, population growth, and information in fluctuating environments,2005,10.1126/science.1114383
+000223891200044,Bacterial persistence as a phenotypic switch,2004,10.1126/science.1099390
+000288543500010,Cellular Decision Making and Biological Noise: From Microbes to Mammals,2011,10.1016/j.cell.2011.01.030
+000310528400006,Increasing Signal Specificity of the TOL Network of Pseudomonas putida mt-2 by Rewiring the Connectivity of the Master Regulator XylR,2012,10.1371/journal.pgen.1002963
+href="javascrip,The Innate Growth Bistability and Fitness Landscapes of Antibiotic-Resistant Bacteria,2013,10.1126/science.1237435
+000243245400041,Noise in transcription negative feedback loops: simulation and experimental analysis,2006,10.1038/msb4100081
+000352095700018,Bistability in a Metabolic Network Underpins the De Novo Evolution of Colony Switching in Pseudomonas fluorescens,2015,10.1371/journal.pbio.1002109
+000291872900001,Phenotypic heterogeneity in mycobacterial stringent response,2011,10.1186/1752-0509-5-18
+000340295800001,Phenotypic bistability in Escherichia coli's central carbon metabolism,2014,10.15252/msb.20135022
+000249552300018,Quantitative characteristics of gene regulation by small RNA,2007,10.1371/journal.pbio.0050229
+000288328500001,pBAM1: an all-synthetic genetic tool for analysis and construction of complex bacterial phenotypes,2011,10.1186/1471-2180-11-38
+000260722900003,A quantitative comparison of sRNA-based and protein-based gene regulation,2008,10.1038/msb.2008.58
+000319435600070,The Pseudomonas aeruginosa Catabolite Repression Control Protein Crc Is Devoid of RNA Binding Activity,2013,10.1371/journal.pone.0064609
+000336832200013,Different Levels of Catabolite Repression Optimize Growth in Stable and Variable Environments,2014,10.1371/journal.pbio.1001764
+000260723000025,Positive Feedback and Noise Activate the Stringent Response Regulator Rel in Mycobacteria,2008,10.1371/journal.pone.0001771
+000349169900010,Population Diversification in a Yeast Metabolic Program Promotes Anticipation of Environmental Shifts,2015,10.1371/journal.pbio.1002042
+000373088000006,Collective decision with 100 Kilobots: speed versus accuracy in binary discrimination problems,2016,10.1007/s10458-015-9323-3
+000317042704131,"Can ants inspire robots?" Self-organized decision making in robotic swarms,2012,IEEE International Conference on Intelligent Robots and Systems
+000264255100001,Self-Organized Aggregation Triggers Collective Decision Making in a Group of Cockroach-Like Robots,2009,10.1177/1059712309103430
+000266765600004,Re-embodiment of Honeybee Aggregation Behavior in an Artificial Micro-Robotic System,2009,10.1177/1059712309104966
+000351153300006,Spatially targeted communication in decentralized multirobot systems,2015,10.1007/s10514-015-9423-6
+000234600500012,Modeling and analysis of nest-site selection by honeybee swarms: the speed and accuracy trade-off,2006,10.1007/s00265-005-0067-y
+000245206500001,Finite size effects in the dynamics of opinion formation,2007,APR 2007
+000244829000023,A survey of trust and reputation systems for online service provision,2007,10.1016/j.dss.2005.05.019
+000233442700030,Agreement over random networks,2005,10.1109/TAC.2005.858670
+000265438100011,Cooperative Decision-Making in Decentralized Multiple-Robot Systems: The Best-of-N Problem,2009,10.1109/TMECH.2009.2014370
+000221631700009,Modeling swarm robotic systems: A case study in collaborative distributed manipulation,2004,10.1177/0278364904042197
+000270143300009,On optimal decision-making in brains and social insect colonies,2009,10.1098/rsif.2008.0511
+000246235400003,A macroscopic model for self-organized aggregation in swarm robotic systems,2007,LECTURE NOTES IN COMPUTER SCIENCE
+000231947702062,A survey of consensus problems in multi-agent coordination,2005,Proceedings of the American Control Conference
+000179580100007,Information flow, opinion polling and collective intelligence in house-hunting social insects,2002,10.1098/rstb.2002.1066
+000187086200006,Speed versus accuracy in collective decision making,2003,10.1098/rspb.2003.2527
+000337652200003,Kilobot: A low cost robot with scalable operations designed for collective behaviors,2014,10.1016/j.robot.2013.08.006
+000340593100040,Programmable self-assembly in a thousand-robot swarm,2014,10.1126/science.1254295
+000358670700002,A quantitative micro-macro link for collective decisions: the shortest path discovery/selection example,2015,10.1007/s11721-015-0105-y
+000358670700005,Time-variant feedback processes in collective decision-making systems: influence and effect of dynamic neighborhood sizes,2015,10.1007/s11721-015-0108-8
+000344790700004,Decentralized self-selection of swarm trajectories: from dynamical systems theory to robotic implementation,2014,10.1007/s11721-014-0101-7
+000322157300004,Towards swarm calculus: urn models of collective decisions and universal properties of swarm performance,2013,10.1007/s11721-013-0080-0
+000316063300001,Swarm robotics: a review from the swarm engineering perspective,2013,10.1007/s11721-012-0075-2
+000220842400003,Democracy in animal groups: a political science perspective,2004,10.1016/j.tree.2004.02.004
+000171155300006,Mixing beliefs among interacting agents,2000,2000
+000228181500012,A review of probabilistic macroscopic models for swarm robotic systems,2005,LECTURE NOTES IN COMPUTER SCIENCE
+000363309200044,A Design Pattern for Decentralised Decision Making,2015,10.1371/journal.pone.0140950
+000344402000067,Multiscale Modelling and Analysis of Collective Decision Making in Swarm Robotics,2014,10.1371/journal.pone.0111542
+000370816000026,A mechanistic study of the influence of graphene curvature on the rate of high-temperature oxidation by molecular oxygen,2016,10.1016/j.carbon.2016.01.090
+000292663400009,On the mechanism of nascent site deactivation in graphene,2011,10.1016/j.carbon.2011.04.046
+000272764300001,New polycyclic aromatic hydrocarbon (PAH) surface processes to improve the model prediction of the composition of combustion-generated PAHs and soot,2010,10.1016/j.carbon.2009.09.030
+000243583300011,HRTEM Study of diesel soot collected from diesel particulate filters,2007,10.1016/j.carbon.2006.08.005
+000172367700001,The oxidation of soot: a review of experiments, mechanisms and models,2001,10.1016/S0008-6223(01)00109-9
+000358561500021,Effect of nanostructure, oxidative pressure and extent of oxidation on model carbon reactivity,2015,10.1016/j.combustflame.2014.12.006
+000321234600025,Structural effects on the oxidation of soot particles by O-2: Experimental and theoretical study,2013,10.1016/j.combustflame.2013.03.010
+000309622900015,Reaction mechanism for the free-edge oxidation of soot by O-2,2012,10.1016/j.combustflame.2012.06.004
+000234073100019,Density functional study of the chemisorption Of O-2 on the zig-zag surface of graphite,2005,10.1016/j.combustflame.2005.08.026
+000174675500005,Detailed Modeling of soot formation in a partially stirred plug flow reactor,2002,10.1016/S0010-2180(01)00344-3
+000085534000008,Kinetic modeling of soot formation with detailed chemistry and physics: Laminar premixed flames of C-2 hydrocarbons,2000,10.1016/S0010-2180(99)00135-2
+000317950900061,Modeling Formation and Oxidation of Soot in Nonpremixed Flames,2013,10.1021/ef400057r
+000292878200001,Nature of Graphene Edges: A Review,2011,10.1143/JJAP.50.070101
+000358337600042,Oxidation of Graphene-Edge Six- and Five-Member Rings by Molecular Oxygen,2015,10.1021/acs.jpca.5b00868
+000342119000067,Pathways to Soot Oxidation: Reaction of OH with Phenanthrene Radicals,2014,10.1021/jp5033178
+000300277700011,Reaction Mechanism of Naphthyl Radicals with Molecular Oxygen. 1. Theoretical Study of the Potential Energy Surface,2012,10.1021/jp2119313
+000297608900008,Thermal Decomposition of Pentacene Oxyradicals,2011,10.1021/jp208974b
+000273400600001,Detailed Kinetic Monte Carlo Simulations of Graphene-Edge Growth,2010,10.1021/jp906541a
+000253784500024,Graphene layer growth chemistry: Five- and six-member ring flip reaction,2008,10.1021/jp075785a
+000231497400018,Cyclodehydrogenation reactions to cyclopentafused polycyclic aromatic hydrocarbons,2005,10.1021/jp052384r
+000230468100019,The reaction of phenyl radical with molecular oxygen: A G2M study of the potential energy surface,2005,10.1021/jp051712k
+000336198900063,Theoretical Study on the Oxidation Mechanism and Dynamics of the Zigzag Graphene Nanoribbon Edge by Oxygen and Ozone,2014,10.1021/jp500633w
+000319649400057,Soot Oxidation Kinetics: A Comparison Study of Two Tandem Ion-Mobility Methods,2013,10.1021/jp400477v
+000275855600019,Local Electronic Structure and Stability of Pentacene Oxyradicals,2010,10.1021/jp9058615
+000272207300039,Active Sites in Graphene and the Mechanism of CO2 Formation in Carbon Oxidation,2009,10.1021/ja904731q
+000285585900010,Substrate-free microwave synthesis of graphene: experimental conditions and hydrocarbon precursors,2010,10.1088/1367-2630/12/12/125013
+000285780200002,Formation of nascent soot and other condensed-phase materials in flames,2011,10.1016/j.proci.2010.09.009
+000175708800005,Reaction mechanism of soot formation in flames,2002,10.1039/b110045a
+000229944300050,Density functional study of the chemisorption Of O-2 on the armchair surface of graphite,2005,10.1016/j.proci.2004.08.064
+000348048800083,Rate coefficients and product branching ratios for the oxidation of phenyl and naphthyl radicals: A theoretical RRKM-ME study,2015,10.1016/j.proci.2014.06.135
+000264756800064,Embedded-ring migration on graphene zigzag edge,2009,10.1016/j.proci.2008.06.096
+000252858000051,Graphene layer growth: Collision of migrating five-member rings,2007,10.1016/j.proci.2006.07.034
+000313125400183,Thermal decomposition of graphene armchair oxyradicals,2013,10.1016/j.proci.2012.05.031
+000285780200070,Bay-capping reactions: Kinetics and influence on graphene-edge growth,2011,10.1016/j.proci.2010.05.110
+000229944200150,Migration mechanism of aromatic-edge growth,2005,10.1016/j.proci.2004.07.048
+000336443400003,Diesel soot combustion catalysts: review of active phases,2014,10.2478/s11696-013-0469-7
+000370898000008,Modeling transport through an environment crowded by a mixture of obstacles of different shapes and sizes,2016,10.1016/j.physa.2015.12.123
+000258107500013,Crowding effects on diffusion in solutions and cells,2008,10.1146/annurev.biophys.37.032807.125824
+000312527500003,Wanted: A Positive Control for Anomalous Subdiffusion,2012,10.1016/j.bpj.2012.10.038
+000244558200015,Sources of anomalous diffusion on cell membranes: A Monte Carlo study,2007,10.1529/biophysj.105.076869
+000224732500052,Anomalous subdiffusion is a measure for cytoplasmic crowding in living cells,2004,10.1529/biophysj.104.044263
+000222035200065,Ultrafine membrane compartments for molecular diffusion as revealed by single molecule techniques,2004,10.1529/biophysj.103.035717
+000244433100015,Cell proliferation drives neural crest cell invasion of the intestine,2007,10.1016/j.ydbio.2006.10.017
+000284101100008,The localization transition of the two-dimensional Lorentz model,2010,10.1140/epjst/e2010-01313-1
+000331289200009,Characterizing transport through a crowded environment with different obstacle sizes,2014,10.1063/1.4864000
+000291402700041,Correlating anomalous diffusion with lipid bilayer membrane structure using single molecule tracking and atomic force microscopy,2011,10.1063/1.3596377
+000248485900053,Modeling diffusional transport in the interphase cell nucleus,2007,10.1063/1.2753158
+000312201600006,Fractional Dynamics at Multiple Times,2012,10.1007/s10955-012-0638-z
+000318215200001,Inverse Stable Subordinators,2013,10.1051/mmnp/20138201
+000337854500024,Random walk-percolation-based modeling of two-phase flow in porous media: Breakthrough time and net to gross ratio estimation,2014,10.1016/j.physa.2014.03.051
+000337854200012,Fokker-Planck type equations associated with fractional Brownian motion controlled by infinitely divisible processes,2014,10.1016/j.physa.2014.03.016
+000262775600016,Multi-species simple exclusion processes,2009,10.1016/j.physa.2008.10.038
+000289203800017,New insights into diffusion in 3D crowded media by Monte Carlo simulations: effect of size, mobility and spatial distribution of obstacles,2011,10.1039/c0cp01218a
+000276199300025,Reaction-subdiffusion and reaction-superdiffusion equations for evanescent particles performing continuous-time random walks,2010,10.1103/PhysRevE.81.031115
+000264767300108,Pathlines in exclusion processes,2009,10.1103/PhysRevE.79.031920
+000241722900002,Using available volume to predict fluid diffusivity in random media,2006,10.1103/PhysRevE.74.040102
+000312934000006,Permeability of Porous Materials Determined from the Euler Characteristic,2012,10.1103/PhysRevLett.109.264504
+000309772600010,Effect of Polydispersity on Diffusion in Random Obstacle Matrices,2012,10.1103/PhysRevLett.109.155901
+000238161400060,Lateral diffusion and percolation in membranes,2006,10.1103/PhysRevLett.96.228103
+000170984600042,Subdiffusion-limited A+A reactions,2001,10.1103/PhysRevLett.87.118301
+000166192000001,The random walk's guide to anomalous diffusion: a fractional dynamics approach,2000,10.1016/S0370-1573(00)00070-3
+000178954800018,Fractional kinetics,2002,10.1063/1.1535007
+000357079400043,Analysis of the size dependence of macromolecular crowding shows that smaller is better,2015,10.1073/pnas.1505396112
+000283677400044,Crowding and hydrodynamic interactions likely dominate in vivo macromolecular motion,2010,10.1073/pnas.1011354107
+000261193700010,COMPUTATIONAL STUDY OF DIFFUSION IN CELLULAR TWO-DIMENSIONAL CROWDED MEDIA MODELED AS MIXTURES OF MOBILE AND IMMOBILE OBSTACLES,2008,MAY 2008
+000243726600049,Kinetics of morphogen gradient formation,2007,10.1126/science.1135774
+000307596400001,Models of anomalous diffusion in crowded environments,2012,10.1039/c2sm25701g
+000331211700076,Tracer diffusion inside fibrinogen layers,2014,10.1063/1.4862170
+000240870100028,Anomalous diffusion with linear reaction dynamics: From continuous time random walks to fractional reaction-diffusion equations,2006,10.1103/PhysRevE.74.031116
+000255456300058,Critical dynamics of ballistic and Brownian particles in a heterogeneous environment,2008,10.1063/1.2901170
+000317032800007,Anomalous transport in the crowded world of biological cells,2013,10.1088/0034-4885/76/4/046602
+000297470300003,Anomalous diffusion: Testing ergodicity breaking in experimental data,2011,10.1103/PhysRevE.84.051138
+000278125200002,Diffusion, Crowding & Protein Stability in a Dynamic Molecular Model of the Bacterial Cytoplasm,2010,10.1371/journal.pcbi.1000694
+000175146400010,Stochastic solution of space-time fractional diffusion equations,2002,10.1103/PhysRevE.65.041103
+000271961400029,Anomalous diffusion in the presence of mobile obstacles,2009,10.1209/0295-5075/88/38004
+000220729400037,Reaction front in an A+B -> C reaction-subdiffusion process,2004,10.1103/PhysRevE.69.036126
+000376088700006,The mean first passage time and stochastic resonance in gene transcriptional system with time delay,2016,10.1142/S0217979216500673
+000299359900009,Colored noise induced switch in the gene transcriptional regulatory system,2012,JAN 2012
+000257439600007,Effect of colored cross-correlated noise on the gene transcriptional regulatory system,2008,JUL 2008
+000179024500004,A reduced model clarifies the role of feedback loops and time delays in the Drosophila circadian oscillator,2002,NOV 2002
+000172407800010,Stochasticity in transcriptional regulation: Origins, consequences, and mathematical representations,2001,DEC 2001
+000278613500014,Stochastic resonance induced by a multiplicative periodic signal in the gene transcriptional regulatory system with correlated noises,2010,10.1088/1674-1056/19/6/060503
+000275660700021,Stochastic resonance in the gene transcriptional regulatory system subjected to noises,2010,10.1088/1674-1056/19/3/030503
+000169800000010,Approximate accelerated stochastic simulation of chemically reacting systems,2001,10.1063/1.1378322
+000085770400013,Efficient exact stochastic simulation of chemical systems with many species and many channels,2000,10.1021/jp993732q
+000224352400003,A two variable delay model for the circadian rhythm of Neurospora crassa,2004,10.1016/j.jtbi.2004.04.006
+000262440900038,A tunable synthetic mammalian oscillator,2009,10.1038/nature07616
+000265264500021,Effects of macromolecular crowding and DNA looping on gene regulation kinetics,2009,10.1038/NPHYS1222
+000229490100011,Stochasticity in gene expression: From theories to phenotypes,2005,10.1038/nrg1615
+000259699800017,Escape rate in the gene transcriptional regulatory system with time delay,2008,10.1088/0031-8949/78/03/035801
+000246073900022,Stochastic synchronization via noise recycling,2007,10.1103/PhysRevE.75.041106
+000230886900019,Delay Fokker-Planck equations, Novikov's theorem, and Boltzmann distributions as small delay approximations,2005,10.1103/PhysRevE.72.011112
+000225689500051,Fluctuations-induced switch in the gene transcriptional regulatory system,2004,10.1103/PhysRevE.70.041907
+000322779700027,Transcriptional Delay Stabilizes Bistable Gene Networks,2013,10.1103/PhysRevLett.111.058104
+000230680000011,Delay-induced excitability,2005,10.1103/PhysRevLett.95.040601
+000188785200006,Experimental investigation of a bistable system in the presence of noise and delay,2004,10.1103/PhysRevLett.92.050601
+000187719300003,Dynamics of an ensemble of noisy bistable elements with global time delayed coupling,2003,10.1103/PhysRevLett.91.260601
+000180444200002,Distribution of residence times of time-delayed bistable systems driven by noise,2003,10.1103/PhysRevLett.90.020601
+000172866200002,Noise-induced dynamics in bistable systems with delay,2001,10.1103/PhysRevLett.87.250602
+000280262800002,The critical phenomenon and the re-entrance phenomenon in the anti-tumor model induced by the time delay,2010,10.1016/j.physleta.2010.06.003
+000245659200006,Stochastic resonance in a bistable system with time-delayed feedback and non-Gaussian noise,2007,10.1016/j.physleta.2006.11.006
+000232603600023,Delay-induced stochastic oscillations in gene regulation,2005,10.1073/pnas.0503858102
+000302703900039,Using Gene Expression Noise to Understand Gene Regulation,2012,10.1126/science.1216379
+000251648600002,Effect of time delay on feedback control of a flashing ratchet,2008,10.1209/0295-5075/81/10002
+000228630000011,Delay Fokker-Planck equations, perturbation theory, and data analysis for nonlinear stochastic systems with time delays,2005,10.1103/PhysRevE.71.031106
+000334169000017,Gaussian approximations for stochastic systems with delay: Chemical Langevin equation and application to a Brusselator system,2014,10.1063/1.4867786
+000247261300004,Stochastic delay differential equations for genetic regulatory networks,2007,10.1016/j.cam.2006.02.063
+000256248300018,Stochastic resonance in a gene transcriptional regulatory system with time delay,2008,MAY 2008
+000337793300005,Stochastic delayed monomer-dimer surface reaction model with various dimer adsorption,2014,10.1140/epjb/e2014-40988-4
+000375204500006,Kinetics and thermodynamics of DNA polymerases with exonuclease proofreading,2016,10.1103/PhysRevE.93.042420
+000089735700017,DNA replication fidelity,2000,10.1146/annurev.biochem.69.1.497
+000301021100018,Kinetics and Fidelity of Polymerization by DNA Polymerase III from Sulfolobus solfataricus,2012,10.1021/bi201799a
+000281052600011,Pre-Steady State Kinetic Studies of the Fidelity of Nucleotide Incorporation by Yeast DNA Polymerase delta,2010,10.1021/bi100556m
+000268523500017,Polymerization Fidelity of a Replicative DNA Polymerase from the Hyperthermophilic Archaeon Sulfolobus solfataricus P2,2009,10.1021/bi900532w
+000259119000002,Mismatched and matched dNTP incorporation by DNA polymerase beta proceed via analogous kinetic pathways,2008,10.1021/bi800689d
+000252415500002,DNA polymerase beta fidelity: Halomethylene-modified leaving groups in pre-steady-state kinetic analysis reveal differences at the chemical transition state,2008,10.1021/bi7014162
+000239596600005,A new paradigm for DNA polymerase specificity,2006,10.1021/bi060993z
+000235347300006,DNA mismatch repair: Functions and mechanisms,2006,10.1021/cr0404794
+000242100500075,Fidelity of the human mitochondrial DNA polymerase,2006,10.1074/jbc.M607964200
+000171925600064,Toxicity of antiviral nucleoside analogs and the human mitochondrial DNA polymerase,2001,10.1074/jbc.M106743200
+000171673200032,The fidelity of human DNA polymerase gamma with and without exonucleolytic proofreading and the p55 accessory subunit,2001,10.1074/jbc.M105230200
+000171526500051,Fidelity of nucleotide incorporation by human mitochondrial DNA polymerase,2001,OCT 12 2001
+000340712200091,Kinetics and thermodynamics of first-order Markov chain copolymerization,2014,10.1063/1.4890821
+000262372600029,Molecular information processing in nonequilibrium copolymerizations,2009,10.1063/1.3050099
+000221146400003,Fluctuation theorem for nonequilibrium reactions,2004,10.1063/1.1688758
+000269178800011,Open-system thermodynamic analysis of DNA polymerase fidelity,2009,10.1088/1478-3975/6/3/036011
+000257784700014,Nonequilibrium generation of information in copolymerization processes,2008,10.1073/pnas.0802049105
+000229048500033,Computer simulations of protein functions: Searching for the molecular origin of the replication fidelity of DNA polymerases,2005,10.1073/pnas.0408173102
+000187227200023,The thermodynamics of template-directed DNA synthesis: Base insertion and extension enthalpies,2003,10.1073/pnas.236142100
+000273923700014,A binding free energy decomposition approach for accurate calculations of the fidelity of DNA polymerases,2010,10.1002/prot.22596
+000251699100022,Exploring the role of large conformational changes in the fidelity of DNA polymerase beta,2008,10.1002/prot.21668
+000263876700032,Extremely High Mutation Rate of a Hammerhead Viroid,2009,10.1126/science.1169202
+000375204500005,Kinetics and thermodynamics of exonuclease-deficient DNA polymerases,2016,10.1103/PhysRevE.93.042419
+000375204500005,Kinetics and thermodynamics of exonuclease-deficient DNA polymerases,2016,10.1103/PhysRevE.93.042419
+000089735700017,DNA replication fidelity,2000,10.1146/annurev.biochem.69.1.497
+000301021100018,Kinetics and Fidelity of Polymerization by DNA Polymerase III from Sulfolobus solfataricus,2012,10.1021/bi201799a
+000295187200002,The Original Michaelis Constant: Translation of the 1913 Michaelis-Menten Paper,2011,10.1021/bi201284u
+000281052600011,Pre-Steady State Kinetic Studies of the Fidelity of Nucleotide Incorporation by Yeast DNA Polymerase delta,2010,10.1021/bi100556m
+000268523500017,Polymerization Fidelity of a Replicative DNA Polymerase from the Hyperthermophilic Archaeon Sulfolobus solfataricus P2,2009,10.1021/bi900532w
+000259119000002,Mismatched and matched dNTP incorporation by DNA polymerase beta proceed via analogous kinetic pathways,2008,10.1021/bi800689d
+000252415500002,DNA polymerase beta fidelity: Halomethylene-modified leaving groups in pre-steady-state kinetic analysis reveal differences at the chemical transition state,2008,10.1021/bi7014162
+000239596600005,A new paradigm for DNA polymerase specificity,2006,10.1021/bi060993z
+000328263000023,Intermittent Transcription Dynamics for the Rapid Production of Long Transcripts of High Fidelity,2013,10.1016/j.celrep.2013.09.007
+000235347300006,DNA mismatch repair: Functions and mechanisms,2006,10.1021/cr0404794
+000228764000004,A macroscopic kinetic model for DNA polymerase elongation and high-fidelity nucleotide selection,2005,10.1016/j.compbiolchem.2005.02.003
+000242100500075,Fidelity of the human mitochondrial DNA polymerase,2006,10.1074/jbc.M607964200
+000171925600064,Toxicity of antiviral nucleoside analogs and the human mitochondrial DNA polymerase,2001,10.1074/jbc.M106743200
+000171673200032,The fidelity of human DNA polymerase gamma with and without exonucleolytic proofreading and the p55 accessory subunit,2001,10.1074/jbc.M105230200
+000171526500051,Fidelity of nucleotide incorporation by human mitochondrial DNA polymerase,2001,OCT 12 2001
+000340712200091,Kinetics and thermodynamics of first-order Markov chain copolymerization,2014,10.1063/1.4890821
+000262372600029,Molecular information processing in nonequilibrium copolymerizations,2009,10.1063/1.3050099
+000221146400003,Fluctuation theorem for nonequilibrium reactions,2004,10.1063/1.1688758
+000333947900032,How a Low-Fidelity DNA Polymerase Chooses Non-Watson-Crick from Watson-Crick Incorporation,2014,10.1021/ja4102375
+000086762000060,Low fidelity DNA synthesis by human DNA polymerase-eta,2000,APR 27 2000
+000269178800011,Open-system thermodynamic analysis of DNA polymerase fidelity,2009,10.1088/1478-3975/6/3/036011
+000338284200014,Rate in template-directed polymer synthesis,2014,10.1103/PhysRevE.89.062716
+000336121300001,DNA viewed as an out-of-equilibrium structure,2014,10.1103/PhysRevE.89.052105
+000306415200002,Error correction during DNA replication,2012,10.1103/PhysRevE.86.011913
+000268616300096,Stochastic kinetics of ribosomes: Single motor properties and collective behavior,2009,10.1103/PhysRevE.80.011908
+000239425600090,Analytical theory of the nonequilibrium spatial distribution of RNA polymerase translocations,2006,10.1103/PhysRevE.74.011907
+000319019300018,Kinetic versus Energetic Discrimination in Biological Copying,2013,10.1103/PhysRevLett.110.188101
+000287135400002,Nonequilibrium Phase Transitions Associated with DNA Replication,2011,10.1103/PhysRevLett.106.060601
+000267432000065,Backtracking and Proofreading in DNA Transcription,2009,10.1103/PhysRevLett.102.258101
+000244117400070,Mechanochemical kinetics of transcription elongation,2007,10.1103/PhysRevLett.98.068103
+000321681300001,Stochastic mechano-chemical kinetics of molecular motors: A multidisciplinary enterprise from a physicist's perspective,2013,10.1016/j.physrep.2013.03.005
+000300654200001,Stochastic theory of nonequilibrium steady states and its applications. Part I,2012,10.1016/j.physrep.2011.09.002
+000300276400001,Stochastic theory of nonequilibrium steady states. Part II: Applications in chemical biophysics,2012,10.1016/j.physrep.2011.09.001
+000306992700038,Speed, dissipation, and error in kinetic proofreading,2012,10.1073/pnas.1119911109
+000257784700014,Nonequilibrium generation of information in copolymerization processes,2008,10.1073/pnas.0802049105
+000229048500033,Computer simulations of protein functions: Searching for the molecular origin of the replication fidelity of DNA polymerases,2005,10.1073/pnas.0408173102
+000090071000055,Replication by a single DNA polymerase of a stretched single-stranded DNA,2000,10.1073/pnas.97.22.12002
+000273923700014,A binding free energy decomposition approach for accurate calculations of the fidelity of DNA polymerases,2010,10.1002/prot.22596
+000251699100022,Exploring the role of large conformational changes in the fidelity of DNA polymerase beta,2008,10.1002/prot.21668
+000322884800029,Sequence-Controlled Polymers,2013,10.1126/science.1238149
+000309215400037,Next-Generation Digital Information Storage in DNA,2012,10.1126/science.1226355
+000175976200034,Molecular biology - Specialized DNA polymerases, cellular survival, and the genesis of mutations,2002,10.1126/science.1070236
+000274266600016,Extracting chemical energy by growing disorder: efficiency at maximum power,2010,10.1088/1742-5468/2010/01/P01008
+000375204500006,Kinetics and thermodynamics of DNA polymerases with exonuclease proofreading,2016,10.1103/PhysRevE.93.042420
+000335855800001,Discriminatory Proofreading Regimes in Nonequilibrium Systems,2014,10.1103/PhysRevX.4.021016
+000347580400002,Complexity measures for the evolutionary categorization of organisms,2014,10.1016/j.compbiolchem.2014.08.004
+000357407300003,Thermodynamics of accuracy in kinetic proofreading: dissipation and efficiency trade-offs,2015,10.1088/1742-5468/2015/06/P06001
