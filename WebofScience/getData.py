@@ -1,26 +1,35 @@
 import requests
 from bs4 import BeautifulSoup
 import time
+import sys
 
 #文章标题：Exact stochastic simulation of coupled chemical
-#被引标题检索总页数：353
 
-#基础网址，手动搜索文章标题可得，会变动
-webUrl = 'http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=CitedRefIndex&qid=3&SID=V2eGVnuE1edP67SwZZq&page='
+#基础网址，手动搜索文章标题可得，会变动，同时更改cookie
+webUrl = 'http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=CitedRefIndex&qid=3&SID=N1zfyxFvKzrrkWt3VBp&page='
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36',
-    'Cookie': 'SID="V2eGVnuE1edP67SwZZq"; CUSTOMER="Beihang University"; E_GROUP_NAME="Beihang University_Without ESI"; JSESSIONID=94CE67CD8EB354E27D6E9E4A97B1051A'
 }
 
+#停止等待时间
+Waittime = 1
+
 #目前已经收集的条目
-Now = 41
+Now = 947#总数3528/3536
 
 #从文章详细页获取想要的信息
 def getData(url):
-    time.sleep(0.5)
-    response = requests.get(url, headers=headers)
-    soup = BeautifulSoup(response.text, 'lxml')
+    global Waittime
+    try:
+        response = requests.get(url, headers=headers)
+        soup = BeautifulSoup(response.text, 'lxml')
+    except BaseException as e:
+        print('访问与解析错误，停止等待……')
+        time.sleep(Waittime)
+        Waittime *= 2
+        print('重试……')
+        getData(url)
     #获取wos
     wos = soup.select('div > div > p > a')
     wos = str(str(wos).encode('utf-8'))
@@ -53,7 +62,12 @@ def getData(url):
         link = link[0].get('href')
         link = 'http://apps.webofknowledge.com' + link
     else:
-        link = ''
+        link = soup.find_all('a', title='查看此记录的题录信息')
+        if (len(link) != 0):
+            link = link[0].get('href')
+            link = 'http://apps.webofknowledge.com' + link
+        else:
+            link = ''
     
     data = {
         'wos':wos,
@@ -66,12 +80,23 @@ def getData(url):
 
 #根据b类文章的引用连接，搜寻C类文章
 def findC(link,f):
+    global Waittime
     if (link == ''):
-        print('地址获取失误')
-        return
-    response = requests.get(link, headers=headers)
-    soup = BeautifulSoup(response.text, 'lxml')
+        print('地址获取失误，程序停止……')
+        sys.exit(0)
+    try:
+        response = requests.get(link, headers=headers)
+        soup = BeautifulSoup(response.text, 'lxml')
+    except BaseException as e:
+        print('访问与解析错误，停止等待……')
+        time.sleep(Waittime)
+        Waittime *= 2
+        print('重试……')
+        findC(link,f)
     links = soup.find_all('a', class_='smallV110')
+    if (len(links) == 0):
+        print('未知错误，程序停止……')
+        sys.exit(0)
     for l in links:
         href = str(l.get('href'))
         if (href[0] == '/' and href[1] == 'C'):
@@ -86,9 +111,12 @@ def findC(link,f):
 
 #保存数据
 def saveByFile(d,f):
+    if (str(d['wos']) == 'NULL' or str(d['title']) == 'NULL' or str(d['year']) == 'NULL' or str(d['doi']) == 'NULL'):
+        print('数据获取失败，程序停止……')
+        sys.exit(0)
     with open('articleData.txt', 'a') as file:
-        file.write('%s,%s,%s,%s\n' % (str(d['wos']),str(d['title']),str(d['year']),str(d['doi'])))
-        print('%s,%s,%s,%s\n' % (str(d['wos']),str(d['title']),str(d['year']),str(d['doi'])))     
+        file.write('%s*%s*%s*%s\n' % (str(d['wos']),str(d['title']),str(d['year']),str(d['doi'])))
+        print('%s*%s*%s*%s\n' % (str(d['wos']),str(d['title']),str(d['year']),str(d['doi'])))     
     with open('relationalData.txt', 'a') as file:
         if (f == '999999999999999'):
             file.write('%s,%s\n' % (str(d['wos']),f))
@@ -103,7 +131,7 @@ if __name__ == "__main__":
             if (j <= Now):
                 continue
             url = webUrl + str(i) + '&doc=' + str(j)
-            print('正在下载数据，第%d条b文章' % j)
+            print('\n\n正在下载数据，第%d条b文章' % j)
             data = getData(url)
             saveByFile(data, '999999999999999')
             findC(data['link'], data['wos'])
