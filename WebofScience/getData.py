@@ -5,8 +5,13 @@ import sys
 
 #文章标题：Exact stochastic simulation of coupled chemical
 
+#目前已经收集的条目
+Now = 3558
+
+SID = 'W11cbb8iTfiUWhOM8hc'
+
 #基础网址，手动搜索文章标题可得，会变动，同时更改cookie
-webUrl = 'http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=CitedRefIndex&qid=3&SID=N1zfyxFvKzrrkWt3VBp&page='
+webUrl = 'http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=CitedRefIndex&qid=3&SID='
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36',
@@ -14,9 +19,6 @@ headers = {
 
 #停止等待时间
 Waittime = 1
-
-#目前已经收集的条目
-Now = 947#总数3528/3536
 
 #从文章详细页获取想要的信息
 def getData(url):
@@ -126,11 +128,11 @@ def saveByFile(d,f):
 
 
 if __name__ == "__main__":
-    for i in range(1, 354):
+    for i in range(1, 357):
         for j in range((i - 1) * 10 + 1, i * 10 + 1):
             if (j <= Now):
                 continue
-            url = webUrl + str(i) + '&doc=' + str(j)
+            url = webUrl + SID + '&page=' + str(i) + '&doc=' + str(j)
             print('\n\n正在下载数据，第%d条b文章' % j)
             data = getData(url)
             saveByFile(data, '999999999999999')
